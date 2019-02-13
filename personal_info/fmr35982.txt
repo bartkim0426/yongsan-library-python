@@ -1,0 +1,6 @@
+name : kdtga
+age : 76
+e-mail : yjaljelg@needle.worm
+division : idi
+telephone : 010-3808-7838
+sex : female

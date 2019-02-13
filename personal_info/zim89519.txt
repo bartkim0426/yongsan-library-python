@@ -1,0 +1,6 @@
+name : sztbr
+age : 24
+e-mail : pccpomsn@needle.worm
+division : hch
+telephone : 010-9158-5916
+sex : male

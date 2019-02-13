@@ -1,0 +1,6 @@
+name : lxroe
+age : 33
+e-mail : nztboymk@needle.worm
+division : ggh
+telephone : 010-8509-5608
+sex : male

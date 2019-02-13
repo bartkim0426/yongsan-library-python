@@ -1,0 +1,6 @@
+name : fkuji
+age : 99
+e-mail : ifgkuwgd@needle.worm
+division : ptv
+telephone : 010-5817-6581
+sex : male

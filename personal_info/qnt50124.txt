@@ -1,0 +1,6 @@
+name : tkojk
+age : 72
+e-mail : ihfkzqtk@needle.worm
+division : vwr
+telephone : 010-0302-0503
+sex : male

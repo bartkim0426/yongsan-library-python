@@ -1,0 +1,6 @@
+name : bzyoa
+age : 79
+e-mail : aeamyaxh@needle.worm
+division : aoc
+telephone : 010-5672-4356
+sex : others

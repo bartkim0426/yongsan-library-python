@@ -1,0 +1,6 @@
+name : windj
+age : 22
+e-mail : bgozimgd@needle.worm
+division : hkf
+telephone : 010-6331-3633
+sex : female

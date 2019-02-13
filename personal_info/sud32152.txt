@@ -1,0 +1,6 @@
+name : boafd
+age : 91
+e-mail : aawyagao@needle.worm
+division : ilv
+telephone : 010-3458-9033
+sex : male

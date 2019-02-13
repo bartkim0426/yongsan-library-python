@@ -1,0 +1,6 @@
+name : nyndy
+age : 02
+e-mail : ziapgpcf@needle.worm
+division : djs
+telephone : 010-1434-2143
+sex : male

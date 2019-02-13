@@ -1,0 +1,6 @@
+name : fkryt
+age : 76
+e-mail : mtsysdsx@needle.worm
+division : ays
+telephone : 010-3792-7937
+sex : others

@@ -1,0 +1,6 @@
+name : tnrua
+age : 58
+e-mail : pzsnsnce@needle.worm
+division : lsn
+telephone : 010-7868-9417
+sex : male

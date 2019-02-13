@@ -1,0 +1,6 @@
+name : mbxev
+age : 91
+e-mail : jukhucuu@needle.worm
+division : una
+telephone : 010-3159-6231
+sex : others

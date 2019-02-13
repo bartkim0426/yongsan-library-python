@@ -1,0 +1,6 @@
+name : fhetg
+age : 21
+e-mail : pzlghuna@needle.worm
+division : jcu
+telephone : 010-8154-9781
+sex : female

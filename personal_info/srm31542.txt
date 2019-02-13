@@ -1,0 +1,6 @@
+name : poulw
+age : 33
+e-mail : adjywigm@needle.worm
+division : wqm
+telephone : 010-3282-6333
+sex : female

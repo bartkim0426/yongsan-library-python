@@ -1,0 +1,6 @@
+name : fxwpl
+age : 61
+e-mail : lzaczsol@needle.worm
+division : ikd
+telephone : 010-2089-5420
+sex : others

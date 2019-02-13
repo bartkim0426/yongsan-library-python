@@ -1,0 +1,6 @@
+name : yvjjq
+age : 67
+e-mail : abvtenyu@needle.worm
+division : kdd
+telephone : 010-8824-8824
+sex : female

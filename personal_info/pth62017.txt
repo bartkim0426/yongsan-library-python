@@ -1,0 +1,6 @@
+name : iwukc
+age : 19
+e-mail : lmafmuoc@needle.worm
+division : hxv
+telephone : 010-1351-6621
+sex : others

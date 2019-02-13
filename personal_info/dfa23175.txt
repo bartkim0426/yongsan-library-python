@@ -1,0 +1,6 @@
+name : ommzi
+age : 33
+e-mail : gbfyrvyc@needle.worm
+division : nkz
+telephone : 010-3364-0233
+sex : others

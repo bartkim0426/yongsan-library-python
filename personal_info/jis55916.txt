@@ -1,0 +1,6 @@
+name : jhjvs
+age : 65
+e-mail : ketezpwa@needle.worm
+division : xbk
+telephone : 010-6096-5609
+sex : male

@@ -1,0 +1,6 @@
+name : yysxo
+age : 08
+e-mail : kfccqxfg@needle.worm
+division : jni
+telephone : 010-0665-6066
+sex : male

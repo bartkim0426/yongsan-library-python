@@ -1,0 +1,6 @@
+name : uakwh
+age : 12
+e-mail : rzbubpmw@needle.worm
+division : xal
+telephone : 010-6928-.536
+sex : female

@@ -1,0 +1,6 @@
+name : oglzr
+age : 81
+e-mail : rgnriqpm@needle.worm
+division : wlo
+telephone : 010-8439-8908
+sex : male

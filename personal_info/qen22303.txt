@@ -1,0 +1,6 @@
+name : leumi
+age : 61
+e-mail : opiktlrt@needle.worm
+division : obo
+telephone : 010-2492-8224
+sex : others

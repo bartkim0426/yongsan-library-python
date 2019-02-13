@@ -1,0 +1,6 @@
+name : mnvob
+age : 06
+e-mail : buderxvl@needle.worm
+division : bws
+telephone : 010-5229-1025
+sex : female

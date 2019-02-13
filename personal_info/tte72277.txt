@@ -1,0 +1,6 @@
+name : yltry
+age : 19
+e-mail : viskuvfn@needle.worm
+division : thr
+telephone : 010-2977-.722
+sex : male

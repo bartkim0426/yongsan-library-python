@@ -1,0 +1,6 @@
+name : cdxcb
+age : 48
+e-mail : slratyzf@needle.worm
+division : iof
+telephone : 010-5468-6275
+sex : male

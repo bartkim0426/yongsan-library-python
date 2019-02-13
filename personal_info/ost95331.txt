@@ -1,0 +1,6 @@
+name : dntxb
+age : 92
+e-mail : hrflkhkz@needle.worm
+division : bbr
+telephone : 010-5446-7954
+sex : male

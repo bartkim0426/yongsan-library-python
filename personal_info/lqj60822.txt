@@ -1,0 +1,6 @@
+name : awvgi
+age : 89
+e-mail : iwtlipfc@needle.worm
+division : nyr
+telephone : 010-1023-6102
+sex : others

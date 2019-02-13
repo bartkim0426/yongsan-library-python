@@ -1,0 +1,6 @@
+name : mjded
+age : 08
+e-mail : ubautwjw@needle.worm
+division : zhf
+telephone : 010-5425-0054
+sex : male

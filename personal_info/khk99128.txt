@@ -1,0 +1,6 @@
+name : cymgg
+age : 58
+e-mail : eytoiocc@needle.worm
+division : eyd
+telephone : 010-1491-9914
+sex : others

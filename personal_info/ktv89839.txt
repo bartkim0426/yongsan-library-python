@@ -1,0 +1,6 @@
+name : jropa
+age : 15
+e-mail : bafakpqy@needle.worm
+division : ppr
+telephone : 010-1329-9991
+sex : others

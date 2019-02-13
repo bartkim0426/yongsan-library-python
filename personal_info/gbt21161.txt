@@ -1,0 +1,6 @@
+name : injlq
+age : 29
+e-mail : njdmgver@needle.worm
+division : eak
+telephone : 010-2451-6224
+sex : female

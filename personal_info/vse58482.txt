@@ -1,0 +1,6 @@
+name : buicc
+age : 56
+e-mail : flqgcpam@needle.worm
+division : bue
+telephone : 010-8676-8586
+sex : male

@@ -1,0 +1,6 @@
+name : dcstn
+age : 03
+e-mail : qcxsqold@needle.worm
+division : gdb
+telephone : 010-9192-5592
+sex : male

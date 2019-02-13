@@ -1,0 +1,6 @@
+name : zphfn
+age : 51
+e-mail : scgypwee@needle.worm
+division : pby
+telephone : 010-5268-.705
+sex : male

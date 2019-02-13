@@ -1,0 +1,6 @@
+name : rclai
+age : 69
+e-mail : xysfhzab@needle.worm
+division : nyi
+telephone : 010-6117-1170
+sex : male

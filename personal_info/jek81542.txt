@@ -1,0 +1,6 @@
+name : koaid
+age : 31
+e-mail : emsmbkve@needle.worm
+division : htw
+telephone : 010-8341-4834
+sex : male

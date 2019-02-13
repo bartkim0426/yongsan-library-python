@@ -1,0 +1,6 @@
+name : rkecw
+age : 11
+e-mail : darrgszn@needle.worm
+division : pqe
+telephone : 010-0769-5610
+sex : male

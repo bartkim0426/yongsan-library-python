@@ -1,0 +1,6 @@
+name : hdxci
+age : 41
+e-mail : swkolryo@needle.worm
+division : hxy
+telephone : 010-3819-8403
+sex : male

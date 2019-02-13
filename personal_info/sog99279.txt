@@ -1,0 +1,6 @@
+name : juvrf
+age : 69
+e-mail : podyoewq@needle.worm
+division : hux
+telephone : 010-9299-9929
+sex : male

@@ -1,0 +1,6 @@
+name : bixmx
+age : 62
+e-mail : boaenrsn@needle.worm
+division : oci
+telephone : 010-4928-9904
+sex : male

@@ -1,0 +1,6 @@
+name : sfgbo
+age : 07
+e-mail : jyoytzsm@needle.worm
+division : tcn
+telephone : 010-3623-0536
+sex : female

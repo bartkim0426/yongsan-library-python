@@ -1,0 +1,6 @@
+name : wuuxn
+age : 51
+e-mail : eytodnhy@needle.worm
+division : dra
+telephone : 010-6854-6854
+sex : female

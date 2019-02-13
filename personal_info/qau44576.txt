@@ -1,0 +1,6 @@
+name : yaxxf
+age : 92
+e-mail : xanzuydj@needle.worm
+division : fkc
+telephone : 010-4714-8447
+sex : male

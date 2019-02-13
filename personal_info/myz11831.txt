@@ -1,0 +1,6 @@
+name : gzhki
+age : 46
+e-mail : ocbtroez@needle.worm
+division : ice
+telephone : 010-1377-.631
+sex : others

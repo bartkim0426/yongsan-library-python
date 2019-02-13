@@ -1,0 +1,6 @@
+name : fnnhl
+age : 51
+e-mail : npvzzpij@needle.worm
+division : zgi
+telephone : 010-0169-6001
+sex : male

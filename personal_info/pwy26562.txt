@@ -1,0 +1,6 @@
+name : ddfse
+age : 17
+e-mail : akgbouaq@needle.worm
+division : wsx
+telephone : 010-8481-7728
+sex : others

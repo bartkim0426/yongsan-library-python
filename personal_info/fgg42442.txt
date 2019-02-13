@@ -1,0 +1,6 @@
+name : kyvyu
+age : 14
+e-mail : mgzptcdn@needle.worm
+division : jlg
+telephone : 010-2645-4264
+sex : male

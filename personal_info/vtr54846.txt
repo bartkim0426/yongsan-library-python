@@ -1,0 +1,6 @@
+name : aavle
+age : 87
+e-mail : cprpgssn@needle.worm
+division : exi
+telephone : 010-8604-5486
+sex : male

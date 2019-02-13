@@ -1,0 +1,6 @@
+name : ggify
+age : 75
+e-mail : ygiismmh@needle.worm
+division : mhf
+telephone : 010-2691-0626
+sex : others

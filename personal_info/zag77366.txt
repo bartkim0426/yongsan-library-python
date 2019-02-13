@@ -1,0 +1,6 @@
+name : elwdm
+age : 35
+e-mail : rvomssmm@needle.worm
+division : cjx
+telephone : 010-7387-7387
+sex : female

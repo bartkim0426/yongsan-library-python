@@ -1,0 +1,6 @@
+name : fllvi
+age : 21
+e-mail : mrfamuep@needle.worm
+division : mmu
+telephone : 010-2132-9621
+sex : male

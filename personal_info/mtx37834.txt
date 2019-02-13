@@ -1,0 +1,6 @@
+name : qiddx
+age : 54
+e-mail : enediprc@needle.worm
+division : tko
+telephone : 010-9688-8379
+sex : others

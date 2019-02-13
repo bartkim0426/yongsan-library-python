@@ -1,0 +1,6 @@
+name : nfhvi
+age : 55
+e-mail : tvniiemq@needle.worm
+division : ful
+telephone : 010-1878-9281
+sex : male

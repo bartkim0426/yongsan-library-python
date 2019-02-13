@@ -1,0 +1,6 @@
+name : dvewe
+age : 19
+e-mail : oxoltkot@needle.worm
+division : xcb
+telephone : 010-2825-7828
+sex : female

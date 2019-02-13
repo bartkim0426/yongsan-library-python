@@ -1,0 +1,6 @@
+name : aiqbl
+age : 58
+e-mail : wogybsck@needle.worm
+division : jdv
+telephone : 010-5553-5555
+sex : others

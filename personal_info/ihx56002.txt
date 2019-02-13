@@ -1,0 +1,6 @@
+name : vbugi
+age : 04
+e-mail : kmuijmjv@needle.worm
+division : tfw
+telephone : 010-7199-0557
+sex : others

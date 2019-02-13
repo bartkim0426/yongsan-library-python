@@ -1,0 +1,6 @@
+name : lufaa
+age : 13
+e-mail : dadqqotb@needle.worm
+division : qrq
+telephone : 010-2298-6122
+sex : male

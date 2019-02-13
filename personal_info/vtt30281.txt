@@ -1,0 +1,6 @@
+name : kdtnp
+age : 78
+e-mail : afoogpgv@needle.worm
+division : xxl
+telephone : 010-4802-3048
+sex : male

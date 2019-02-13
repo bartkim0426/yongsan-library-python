@@ -1,0 +1,6 @@
+name : oqorc
+age : 24
+e-mail : ssckbejq@needle.worm
+division : qfw
+telephone : 010-5384-5384
+sex : male

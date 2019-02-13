@@ -1,0 +1,6 @@
+name : lccwt
+age : 53
+e-mail : kpcssrvo@needle.worm
+division : oxn
+telephone : 010-9692-3897
+sex : male

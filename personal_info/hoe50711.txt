@@ -1,0 +1,6 @@
+name : utazl
+age : 14
+e-mail : wekniabq@needle.worm
+division : yjd
+telephone : 010-5244-2524
+sex : male

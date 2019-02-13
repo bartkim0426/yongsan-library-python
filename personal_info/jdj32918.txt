@@ -1,0 +1,6 @@
+name : ojhzb
+age : 46
+e-mail : aoyathru@needle.worm
+division : nhj
+telephone : 010-3479-6348
+sex : male

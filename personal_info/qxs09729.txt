@@ -1,0 +1,6 @@
+name : lakrx
+age : 87
+e-mail : hkfmvvia@needle.worm
+division : ldq
+telephone : 010-9906-9099
+sex : male

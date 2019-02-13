@@ -1,0 +1,6 @@
+name : mnyoz
+age : 92
+e-mail : lkmdgpjz@needle.worm
+division : urd
+telephone : 010-7325-5273
+sex : male

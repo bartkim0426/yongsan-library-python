@@ -1,0 +1,6 @@
+name : xpckf
+age : 98
+e-mail : adldccri@needle.worm
+division : sye
+telephone : 010-5126-8351
+sex : male

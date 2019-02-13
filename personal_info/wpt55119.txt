@@ -1,0 +1,6 @@
+name : lspii
+age : 25
+e-mail : pmwldmmv@needle.worm
+division : xlh
+telephone : 010-5242-8552
+sex : others

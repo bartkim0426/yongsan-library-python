@@ -1,0 +1,6 @@
+name : dgfie
+age : 65
+e-mail : cfxnitmu@needle.worm
+division : gmq
+telephone : 010-0852-9808
+sex : male

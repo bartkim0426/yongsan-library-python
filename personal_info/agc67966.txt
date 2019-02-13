@@ -1,0 +1,6 @@
+name : aodmn
+age : 42
+e-mail : hzwmcild@needle.worm
+division : hvt
+telephone : 010-9876-6798
+sex : others

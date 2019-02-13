@@ -1,0 +1,6 @@
+name : avnet
+age : 82
+e-mail : gcrwztmz@needle.worm
+division : gtl
+telephone : 010-6598-6.76
+sex : male

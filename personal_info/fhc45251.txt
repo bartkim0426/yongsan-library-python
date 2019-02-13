@@ -1,0 +1,6 @@
+name : hkasa
+age : 97
+e-mail : cedacrap@needle.worm
+division : zue
+telephone : 010-4729-8047
+sex : male

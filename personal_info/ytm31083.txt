@@ -1,0 +1,6 @@
+name : yeajd
+age : 72
+e-mail : dztcirai@needle.worm
+division : mhk
+telephone : 010-1289-0312
+sex : female

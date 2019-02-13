@@ -1,0 +1,6 @@
+name : xfrpz
+age : 66
+e-mail : pnkdbamh@needle.worm
+division : cwu
+telephone : 010-3897-8390
+sex : male

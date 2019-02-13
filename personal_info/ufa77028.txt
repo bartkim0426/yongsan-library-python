@@ -1,0 +1,6 @@
+name : kuqqj
+age : 04
+e-mail : bgalgarb@needle.worm
+division : ymm
+telephone : 010-7238-7724
+sex : male

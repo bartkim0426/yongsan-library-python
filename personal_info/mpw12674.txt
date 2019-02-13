@@ -1,0 +1,6 @@
+name : ifcus
+age : 52
+e-mail : xsmuogtn@needle.worm
+division : pgl
+telephone : 010-8798-8128
+sex : others

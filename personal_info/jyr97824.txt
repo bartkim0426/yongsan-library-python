@@ -1,0 +1,6 @@
+name : scqoc
+age : 79
+e-mail : rmvxyfll@needle.worm
+division : rwa
+telephone : 010-8407-9840
+sex : female

@@ -1,0 +1,6 @@
+name : pqtje
+age : 74
+e-mail : zikamqjp@needle.worm
+division : dry
+telephone : 010-2909-8982
+sex : male

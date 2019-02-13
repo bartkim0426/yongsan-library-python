@@ -1,0 +1,6 @@
+name : ghttn
+age : 99
+e-mail : lftgpbtl@needle.worm
+division : jsd
+telephone : 010-8913-5489
+sex : male

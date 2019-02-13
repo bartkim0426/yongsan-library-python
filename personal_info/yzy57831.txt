@@ -1,0 +1,6 @@
+name : ozmqj
+age : 76
+e-mail : ojzkobnt@needle.worm
+division : kme
+telephone : 010-8003-9580
+sex : male

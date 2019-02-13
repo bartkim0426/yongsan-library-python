@@ -1,0 +1,6 @@
+name : axeej
+age : 11
+e-mail : kmfoorww@needle.worm
+division : idc
+telephone : 010-0227-9902
+sex : male

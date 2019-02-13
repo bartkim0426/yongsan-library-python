@@ -1,0 +1,6 @@
+name : spquu
+age : 81
+e-mail : kgoppadm@needle.worm
+division : vux
+telephone : 010-3126-9031
+sex : female

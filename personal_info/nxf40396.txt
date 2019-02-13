@@ -1,0 +1,6 @@
+name : jmvry
+age : 07
+e-mail : fylesaia@needle.worm
+division : ioz
+telephone : 010-0523-6405
+sex : male

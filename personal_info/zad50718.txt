@@ -1,0 +1,6 @@
+name : yjedi
+age : 08
+e-mail : yluplinw@needle.worm
+division : huw
+telephone : 010-5241-5652
+sex : others

@@ -1,0 +1,6 @@
+name : wdomi
+age : 35
+e-mail : zshmuomz@needle.worm
+division : sid
+telephone : 010-3798-7003
+sex : others

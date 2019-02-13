@@ -1,0 +1,6 @@
+name : htvfu
+age : 58
+e-mail : vgkhjnvp@needle.worm
+division : zdd
+telephone : 010-3983-7639
+sex : male

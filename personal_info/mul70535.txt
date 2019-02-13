@@ -1,0 +1,6 @@
+name : eaazo
+age : 51
+e-mail : jgneqvez@needle.worm
+division : ubv
+telephone : 010-5467-7054
+sex : others

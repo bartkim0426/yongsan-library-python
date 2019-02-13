@@ -1,0 +1,6 @@
+name : ycusk
+age : 04
+e-mail : hlnkqlfc@needle.worm
+division : izt
+telephone : 010-0824-8108
+sex : male

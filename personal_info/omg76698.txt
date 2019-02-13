@@ -1,0 +1,6 @@
+name : iffue
+age : 78
+e-mail : zoltnyxb@needle.worm
+division : cxv
+telephone : 010-7797-3779
+sex : female

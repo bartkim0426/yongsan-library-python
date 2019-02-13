@@ -1,0 +1,6 @@
+name : eextr
+age : 78
+e-mail : bajgkxec@needle.worm
+division : tnf
+telephone : 010-3562-4835
+sex : male

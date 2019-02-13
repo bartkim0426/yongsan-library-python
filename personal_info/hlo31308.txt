@@ -1,0 +1,6 @@
+name : gbdla
+age : 92
+e-mail : dibwtsso@needle.worm
+division : wgx
+telephone : 010-3259-8333
+sex : male

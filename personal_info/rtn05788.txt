@@ -1,0 +1,6 @@
+name : odnjv
+age : 72
+e-mail : vrzatlwh@needle.worm
+division : gsi
+telephone : 010-0737-5073
+sex : others

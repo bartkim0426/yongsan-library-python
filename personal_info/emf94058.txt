@@ -1,0 +1,6 @@
+name : dbobl
+age : 07
+e-mail : grfqmlmo@needle.worm
+division : yld
+telephone : 010-4239-5942
+sex : others

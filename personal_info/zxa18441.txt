@@ -1,0 +1,6 @@
+name : wgwla
+age : 89
+e-mail : nvhztolh@needle.worm
+division : ruu
+telephone : 010-8652-1865
+sex : male

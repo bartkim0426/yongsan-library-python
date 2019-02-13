@@ -1,0 +1,6 @@
+name : vdplo
+age : 42
+e-mail : olpwqgwc@needle.worm
+division : ecr
+telephone : 010-4774-7477
+sex : others

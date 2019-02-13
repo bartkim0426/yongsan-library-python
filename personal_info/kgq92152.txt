@@ -1,0 +1,6 @@
+name : lwdpr
+age : 31
+e-mail : nkdxieat@needle.worm
+division : bfd
+telephone : 010-9347-9393
+sex : male

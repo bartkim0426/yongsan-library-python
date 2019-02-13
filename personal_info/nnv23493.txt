@@ -1,0 +1,6 @@
+name : mpisu
+age : 11
+e-mail : zraanllg@needle.worm
+division : obo
+telephone : 010-3682-0236
+sex : male

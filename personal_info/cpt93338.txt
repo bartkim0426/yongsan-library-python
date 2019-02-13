@@ -1,0 +1,6 @@
+name : riqdt
+age : 99
+e-mail : rhspojfa@needle.worm
+division : jbf
+telephone : 010-9532-7795
+sex : male

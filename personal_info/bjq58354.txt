@@ -1,0 +1,6 @@
+name : synyr
+age : 59
+e-mail : ujhbcolb@needle.worm
+division : ahb
+telephone : 010-8539-9585
+sex : others

@@ -1,0 +1,6 @@
+name : aawdd
+age : 67
+e-mail : dnajqliw@needle.worm
+division : zsi
+telephone : 010-6702-9367
+sex : female

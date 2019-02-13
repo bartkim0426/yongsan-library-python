@@ -1,0 +1,6 @@
+name : duyif
+age : 88
+e-mail : giidcfqm@needle.worm
+division : gyu
+telephone : 010-4163-0941
+sex : male

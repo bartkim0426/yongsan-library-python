@@ -1,0 +1,6 @@
+name : wivlu
+age : 28
+e-mail : mzevwzxa@needle.worm
+division : ltn
+telephone : 010-8535-6785
+sex : male

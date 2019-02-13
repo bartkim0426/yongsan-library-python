@@ -1,0 +1,6 @@
+name : ddgmt
+age : 94
+e-mail : fbtnurdx@needle.worm
+division : yyy
+telephone : 010-1201-8120
+sex : others

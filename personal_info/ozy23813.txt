@@ -1,0 +1,6 @@
+name : hqswt
+age : 81
+e-mail : satvjpkz@needle.worm
+division : xxb
+telephone : 010-4013-2401
+sex : male

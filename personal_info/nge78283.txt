@@ -1,0 +1,6 @@
+name : quxgy
+age : 72
+e-mail : teueehnb@needle.worm
+division : jcn
+telephone : 010-8477-.978
+sex : female

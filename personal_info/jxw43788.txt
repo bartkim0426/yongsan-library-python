@@ -1,0 +1,6 @@
+name : wzabs
+age : 48
+e-mail : tkraxxwr@needle.worm
+division : mxa
+telephone : 010-4398-7439
+sex : others

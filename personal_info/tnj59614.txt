@@ -1,0 +1,6 @@
+name : bkczr
+age : 95
+e-mail : ljanhgel@needle.worm
+division : iri
+telephone : 010-6003-5600
+sex : male

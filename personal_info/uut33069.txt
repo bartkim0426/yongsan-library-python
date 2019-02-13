@@ -1,0 +1,6 @@
+name : kqssy
+age : 25
+e-mail : maxdslwx@needle.worm
+division : ccw
+telephone : 010-3282-8332
+sex : male

@@ -1,0 +1,6 @@
+name : elmjt
+age : 72
+e-mail : trctbgqn@needle.worm
+division : niq
+telephone : 010-2245-8522
+sex : others

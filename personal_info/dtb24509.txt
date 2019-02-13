@@ -1,0 +1,6 @@
+name : mjhwt
+age : 89
+e-mail : kjkhmfrb@needle.worm
+division : dxt
+telephone : 010-5899-8425
+sex : male

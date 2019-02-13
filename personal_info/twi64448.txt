@@ -1,0 +1,6 @@
+name : fnuct
+age : 47
+e-mail : uzihucrt@needle.worm
+division : vco
+telephone : 010-4564-0645
+sex : others

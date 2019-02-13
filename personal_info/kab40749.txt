@@ -1,0 +1,6 @@
+name : gvafi
+age : 85
+e-mail : rzznuthp@needle.worm
+division : wzj
+telephone : 010-4201-6942
+sex : others

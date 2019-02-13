@@ -1,0 +1,6 @@
+name : adtzs
+age : 74
+e-mail : kkuegwms@needle.worm
+division : hkw
+telephone : 010-5101-7651
+sex : male

@@ -1,0 +1,6 @@
+name : oaeio
+age : 84
+e-mail : xnzaeytz@needle.worm
+division : wbx
+telephone : 010-1857-5185
+sex : others

@@ -1,0 +1,6 @@
+name : iffjo
+age : 15
+e-mail : tdbxqtye@needle.worm
+division : aww
+telephone : 010-2735-8527
+sex : male

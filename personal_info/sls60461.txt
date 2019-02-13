@@ -1,0 +1,6 @@
+name : ysqfb
+age : 96
+e-mail : vsybhtai@needle.worm
+division : qpg
+telephone : 010-6122-6061
+sex : male

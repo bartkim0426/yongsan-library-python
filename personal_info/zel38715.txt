@@ -1,0 +1,6 @@
+name : vfwaf
+age : 15
+e-mail : ktbynsux@needle.worm
+division : qwq
+telephone : 010-8831-0388
+sex : male

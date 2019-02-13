@@ -1,0 +1,6 @@
+name : pnkpb
+age : 15
+e-mail : bytejukv@needle.worm
+division : nmu
+telephone : 010-4348-0343
+sex : male

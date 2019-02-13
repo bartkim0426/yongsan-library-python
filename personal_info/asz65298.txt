@@ -1,0 +1,6 @@
+name : pbmhu
+age : 79
+e-mail : velwxnvm@needle.worm
+division : lju
+telephone : 010-6686-9668
+sex : male

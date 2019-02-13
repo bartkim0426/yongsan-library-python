@@ -1,0 +1,6 @@
+name : nsusi
+age : 84
+e-mail : rbmdejzh@needle.worm
+division : zoq
+telephone : 010-1904-8719
+sex : others

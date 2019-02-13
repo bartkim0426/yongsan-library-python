@@ -1,0 +1,6 @@
+name : wfigz
+age : 91
+e-mail : jaapshpt@needle.worm
+division : yxj
+telephone : 010-1526-0615
+sex : male

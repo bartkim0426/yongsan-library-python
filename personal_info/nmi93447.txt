@@ -1,0 +1,6 @@
+name : rsojk
+age : 65
+e-mail : bstmfqpe@needle.worm
+division : mtq
+telephone : 010-3581-9358
+sex : female

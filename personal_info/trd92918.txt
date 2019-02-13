@@ -1,0 +1,6 @@
+name : meiee
+age : 12
+e-mail : qimiwnsc@needle.worm
+division : bcp
+telephone : 010-3078-.593
+sex : male

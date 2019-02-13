@@ -1,0 +1,6 @@
+name : twslj
+age : 79
+e-mail : xgcdirej@needle.worm
+division : rmx
+telephone : 010-7612-5776
+sex : female

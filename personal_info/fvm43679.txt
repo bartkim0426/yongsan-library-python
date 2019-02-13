@@ -1,0 +1,6 @@
+name : lsdgr
+age : 22
+e-mail : ycmnornz@needle.worm
+division : ued
+telephone : 010-3851-0438
+sex : male

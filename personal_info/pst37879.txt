@@ -1,0 +1,6 @@
+name : bwire
+age : 14
+e-mail : wdwyavbx@needle.worm
+division : loy
+telephone : 010-0438-9380
+sex : others

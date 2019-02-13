@@ -1,0 +1,6 @@
+name : xqnus
+age : 71
+e-mail : fxyfowpe@needle.worm
+division : ici
+telephone : 010-3067-.573
+sex : male

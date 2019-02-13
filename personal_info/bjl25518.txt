@@ -1,0 +1,6 @@
+name : ciube
+age : 85
+e-mail : jzbvjkpe@needle.worm
+division : irn
+telephone : 010-7109-9527
+sex : female

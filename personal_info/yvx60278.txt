@@ -1,0 +1,6 @@
+name : wnhoa
+age : 15
+e-mail : nnpztpdw@needle.worm
+division : jco
+telephone : 010-4311-6043
+sex : female

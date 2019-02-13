@@ -1,0 +1,6 @@
+name : acrdv
+age : 16
+e-mail : tjrbrhzk@needle.worm
+division : qvx
+telephone : 010-7466-7674
+sex : others

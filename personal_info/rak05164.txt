@@ -1,0 +1,6 @@
+name : bazov
+age : 41
+e-mail : bjorwfgo@needle.worm
+division : zui
+telephone : 010-5281-9052
+sex : male

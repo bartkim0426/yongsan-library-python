@@ -1,0 +1,6 @@
+name : zeoad
+age : 99
+e-mail : mdyvsexi@needle.worm
+division : kur
+telephone : 010-4351-0264
+sex : others

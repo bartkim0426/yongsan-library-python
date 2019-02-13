@@ -1,0 +1,6 @@
+name : cenef
+age : 73
+e-mail : ebcowhyh@needle.worm
+division : gxo
+telephone : 010-6404-0164
+sex : male

@@ -1,0 +1,6 @@
+name : jmojr
+age : 15
+e-mail : eheqmhqd@needle.worm
+division : mui
+telephone : 010-5233-8523
+sex : male

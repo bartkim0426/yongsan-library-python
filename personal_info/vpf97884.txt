@@ -1,0 +1,6 @@
+name : xntbg
+age : 24
+e-mail : iunwapnr@needle.worm
+division : leh
+telephone : 010-8042-5980
+sex : others

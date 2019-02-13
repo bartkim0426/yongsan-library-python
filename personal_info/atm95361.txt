@@ -1,0 +1,6 @@
+name : cbntq
+age : 88
+e-mail : xgfrgbil@needle.worm
+division : ujs
+telephone : 010-5562-0955
+sex : others

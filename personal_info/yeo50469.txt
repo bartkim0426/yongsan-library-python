@@ -1,0 +1,6 @@
+name : vwlmo
+age : 68
+e-mail : eradnbcw@needle.worm
+division : kgb
+telephone : 010-1842-9518
+sex : male

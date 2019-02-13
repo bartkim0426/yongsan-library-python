@@ -1,0 +1,6 @@
+name : yggrm
+age : 09
+e-mail : invwnfrd@needle.worm
+division : vvg
+telephone : 010-1528-7831
+sex : male

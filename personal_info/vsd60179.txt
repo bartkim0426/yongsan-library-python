@@ -1,0 +1,6 @@
+name : gstnt
+age : 61
+e-mail : jacfyxze@needle.worm
+division : doi
+telephone : 010-0218-0218
+sex : male

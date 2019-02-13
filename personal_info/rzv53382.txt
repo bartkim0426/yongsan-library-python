@@ -1,0 +1,6 @@
+name : auqud
+age : 93
+e-mail : gbbeeuzm@needle.worm
+division : jrx
+telephone : 010-4029-3403
+sex : female

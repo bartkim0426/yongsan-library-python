@@ -1,0 +1,6 @@
+name : fngme
+age : 42
+e-mail : xtnuhydo@needle.worm
+division : adj
+telephone : 010-8608-7861
+sex : female

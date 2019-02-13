@@ -1,0 +1,6 @@
+name : wldtb
+age : 78
+e-mail : hswsemun@needle.worm
+division : ojl
+telephone : 010-4772-7984
+sex : others

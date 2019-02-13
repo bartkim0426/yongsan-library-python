@@ -1,0 +1,6 @@
+name : plylo
+age : 98
+e-mail : cnuorkoz@needle.worm
+division : brk
+telephone : 010-0812-0708
+sex : female

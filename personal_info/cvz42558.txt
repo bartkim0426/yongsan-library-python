@@ -1,0 +1,6 @@
+name : coiav
+age : 18
+e-mail : cpkwzasv@needle.worm
+division : mrk
+telephone : 010-2751-9427
+sex : female

@@ -1,0 +1,6 @@
+name : hyicm
+age : 32
+e-mail : wqkzjeho@needle.worm
+division : rke
+telephone : 010-5085-.555
+sex : male

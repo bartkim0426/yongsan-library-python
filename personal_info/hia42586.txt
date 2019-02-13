@@ -1,0 +1,6 @@
+name : xiijp
+age : 55
+e-mail : dnybmbno@needle.worm
+division : cjb
+telephone : 010-7882-6427
+sex : others

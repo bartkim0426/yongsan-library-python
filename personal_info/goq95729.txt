@@ -1,0 +1,6 @@
+name : igrns
+age : 14
+e-mail : qwqdmhce@needle.worm
+division : svo
+telephone : 010-7432-9574
+sex : male

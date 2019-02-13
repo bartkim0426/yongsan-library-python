@@ -1,0 +1,6 @@
+name : olajo
+age : 62
+e-mail : rqfmuish@needle.worm
+division : hjw
+telephone : 010-5919-8675
+sex : female

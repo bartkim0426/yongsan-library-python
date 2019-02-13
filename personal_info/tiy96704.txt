@@ -1,0 +1,6 @@
+name : gcisu
+age : 89
+e-mail : llyffqix@needle.worm
+division : gxr
+telephone : 010-6923-7969
+sex : male

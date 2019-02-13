@@ -1,0 +1,6 @@
+name : qwryn
+age : 22
+e-mail : ykahjpuo@needle.worm
+division : kpq
+telephone : 010-7382-6773
+sex : female

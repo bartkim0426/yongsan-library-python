@@ -1,0 +1,6 @@
+name : kiuqg
+age : 45
+e-mail : rweonawp@needle.worm
+division : mkb
+telephone : 010-8173-7381
+sex : others

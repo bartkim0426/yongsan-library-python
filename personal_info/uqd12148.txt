@@ -1,0 +1,6 @@
+name : toocg
+age : 39
+e-mail : ytgpbhnk@needle.worm
+division : csm
+telephone : 010-2312-1231
+sex : male

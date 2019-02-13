@@ -1,0 +1,6 @@
+name : klspk
+age : 12
+e-mail : ghiwyrxx@needle.worm
+division : dmv
+telephone : 010-0676-7067
+sex : male

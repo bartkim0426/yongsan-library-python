@@ -1,0 +1,6 @@
+name : elprq
+age : 12
+e-mail : wsyuyedp@needle.worm
+division : tjn
+telephone : 010-3308-6863
+sex : male

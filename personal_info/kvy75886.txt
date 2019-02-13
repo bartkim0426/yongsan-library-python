@@ -1,0 +1,6 @@
+name : nelwg
+age : 76
+e-mail : vdvwksnn@needle.worm
+division : dbj
+telephone : 010-6111-5761
+sex : male

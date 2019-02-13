@@ -1,0 +1,6 @@
+name : fuuia
+age : 03
+e-mail : tsltjayj@needle.worm
+division : kju
+telephone : 010-2434-5724
+sex : male

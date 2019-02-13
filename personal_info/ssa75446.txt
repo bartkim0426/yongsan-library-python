@@ -1,0 +1,6 @@
+name : erged
+age : 18
+e-mail : guqsjlzo@needle.worm
+division : ofm
+telephone : 010-5852-8758
+sex : others

@@ -1,0 +1,6 @@
+name : oqptt
+age : 22
+e-mail : hvvtsdhs@needle.worm
+division : kam
+telephone : 010-0332-8303
+sex : male

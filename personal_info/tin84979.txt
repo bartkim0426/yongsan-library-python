@@ -1,0 +1,6 @@
+name : argyh
+age : 41
+e-mail : hppmbngk@needle.worm
+division : cwr
+telephone : 010-0866-0866
+sex : male

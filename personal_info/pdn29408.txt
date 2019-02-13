@@ -1,0 +1,6 @@
+name : qunrk
+age : 13
+e-mail : xzwgenuy@needle.worm
+division : phy
+telephone : 010-3143-8231
+sex : male

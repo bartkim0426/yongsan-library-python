@@ -1,0 +1,6 @@
+name : yofbi
+age : 62
+e-mail : okywejns@needle.worm
+division : noj
+telephone : 010-3798-7043
+sex : male

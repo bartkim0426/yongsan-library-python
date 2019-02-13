@@ -1,0 +1,6 @@
+name : abxxv
+age : 21
+e-mail : ytiicwdb@needle.worm
+division : bkn
+telephone : 010-3305-9333
+sex : others

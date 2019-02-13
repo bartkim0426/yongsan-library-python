@@ -1,0 +1,6 @@
+name : hkssd
+age : 34
+e-mail : akismuje@needle.worm
+division : lte
+telephone : 010-5502-0155
+sex : male

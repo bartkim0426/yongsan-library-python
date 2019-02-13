@@ -1,0 +1,6 @@
+name : okjdl
+age : 75
+e-mail : pavdnrdr@needle.worm
+division : snu
+telephone : 010-7069-.698
+sex : male

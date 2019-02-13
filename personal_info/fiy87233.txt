@@ -1,0 +1,6 @@
+name : mykbi
+age : 32
+e-mail : lzxzwxtw@needle.worm
+division : whk
+telephone : 010-7361-5873
+sex : others

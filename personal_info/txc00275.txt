@@ -1,0 +1,6 @@
+name : bzzyt
+age : 26
+e-mail : esxpvrze@needle.worm
+division : mff
+telephone : 010-0458-0004
+sex : others

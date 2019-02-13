@@ -1,0 +1,6 @@
+name : nunaf
+age : 53
+e-mail : nucadhtu@needle.worm
+division : nzi
+telephone : 010-0917-0917
+sex : male

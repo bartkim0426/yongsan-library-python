@@ -1,0 +1,6 @@
+name : dctiw
+age : 78
+e-mail : jylwgbgw@needle.worm
+division : xbx
+telephone : 010-6708-6667
+sex : male

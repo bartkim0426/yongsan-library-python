@@ -1,0 +1,6 @@
+name : ladoo
+age : 66
+e-mail : aeveeetz@needle.worm
+division : wwq
+telephone : 010-7782-7877
+sex : others

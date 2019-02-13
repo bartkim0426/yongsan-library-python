@@ -1,0 +1,6 @@
+name : gjnei
+age : 21
+e-mail : pksnzjnz@needle.worm
+division : vdk
+telephone : 010-1338-.811
+sex : female

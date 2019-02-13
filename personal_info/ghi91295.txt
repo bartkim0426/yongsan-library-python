@@ -1,0 +1,6 @@
+name : qsosk
+age : 69
+e-mail : ifejhmlx@needle.worm
+division : pqq
+telephone : 010-5039-5915
+sex : male

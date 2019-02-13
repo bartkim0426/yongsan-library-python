@@ -1,0 +1,6 @@
+name : nfgry
+age : 12
+e-mail : bxfwkuzh@needle.worm
+division : nbl
+telephone : 010-5256-9852
+sex : others

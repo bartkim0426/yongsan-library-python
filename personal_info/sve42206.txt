@@ -1,0 +1,6 @@
+name : bwolk
+age : 68
+e-mail : fdaehknr@needle.worm
+division : int
+telephone : 010-3949-0423
+sex : others

@@ -1,0 +1,6 @@
+name : cgtyc
+age : 71
+e-mail : lkjbyejl@needle.worm
+division : tuq
+telephone : 010-4288-0842
+sex : male

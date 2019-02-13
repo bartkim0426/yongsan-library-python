@@ -1,0 +1,6 @@
+name : sqzqr
+age : 91
+e-mail : lmsunnbg@needle.worm
+division : gsx
+telephone : 010-5207-6452
+sex : male

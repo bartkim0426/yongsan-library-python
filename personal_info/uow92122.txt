@@ -1,0 +1,6 @@
+name : bfumt
+age : 74
+e-mail : czbgkuzt@needle.worm
+division : xwc
+telephone : 010-9406-1940
+sex : male

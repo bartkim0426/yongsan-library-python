@@ -1,0 +1,6 @@
+name : bkxnb
+age : 88
+e-mail : hgzcykks@needle.worm
+division : djb
+telephone : 010-5404-8954
+sex : male

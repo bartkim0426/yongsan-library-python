@@ -1,0 +1,6 @@
+name : wsjgy
+age : 48
+e-mail : obyurnpi@needle.worm
+division : yci
+telephone : 010-8651-9558
+sex : others

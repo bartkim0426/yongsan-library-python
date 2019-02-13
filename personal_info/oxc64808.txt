@@ -1,0 +1,6 @@
+name : zpumo
+age : 98
+e-mail : wsrrkinz@needle.worm
+division : sct
+telephone : 010-6637-4663
+sex : female

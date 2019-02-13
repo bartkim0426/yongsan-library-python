@@ -1,0 +1,6 @@
+name : zhycz
+age : 42
+e-mail : imetrvhz@needle.worm
+division : pjw
+telephone : 010-2078-8242
+sex : male

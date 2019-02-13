@@ -1,0 +1,6 @@
+name : yofll
+age : 75
+e-mail : iurblurw@needle.worm
+division : qbf
+telephone : 010-8741-9387
+sex : male

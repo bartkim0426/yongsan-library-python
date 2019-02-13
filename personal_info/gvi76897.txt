@@ -1,0 +1,6 @@
+name : wlukh
+age : 58
+e-mail : qrusdtbl@needle.worm
+division : ucc
+telephone : 010-7091-9770
+sex : female

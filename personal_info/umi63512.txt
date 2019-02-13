@@ -1,0 +1,6 @@
+name : zdsxm
+age : 57
+e-mail : ydaziiyi@needle.worm
+division : crt
+telephone : 010-6474-5664
+sex : others

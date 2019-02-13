@@ -1,0 +1,6 @@
+name : hdbuc
+age : 22
+e-mail : nvnufqqn@needle.worm
+division : sud
+telephone : 010-9855-6985
+sex : others

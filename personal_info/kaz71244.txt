@@ -1,0 +1,6 @@
+name : kmrur
+age : 71
+e-mail : zgjmrvbv@needle.worm
+division : smo
+telephone : 010-4822-0714
+sex : male

@@ -1,0 +1,6 @@
+name : vujku
+age : 15
+e-mail : rtjtbhrz@needle.worm
+division : qcg
+telephone : 010-7848-0778
+sex : male

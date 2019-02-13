@@ -1,0 +1,6 @@
+name : cnfus
+age : 08
+e-mail : wkiqzirf@needle.worm
+division : jno
+telephone : 010-6501-8465
+sex : male

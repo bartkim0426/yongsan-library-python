@@ -1,0 +1,6 @@
+name : teyya
+age : 01
+e-mail : vvnarkkg@needle.worm
+division : vxi
+telephone : 010-1522-8715
+sex : male

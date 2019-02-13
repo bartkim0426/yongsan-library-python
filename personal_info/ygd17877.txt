@@ -1,0 +1,6 @@
+name : nyyxt
+age : 18
+e-mail : xijovelm@needle.worm
+division : qyf
+telephone : 010-8047-.018
+sex : male

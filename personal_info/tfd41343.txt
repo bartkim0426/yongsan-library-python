@@ -1,0 +1,6 @@
+name : naxki
+age : 88
+e-mail : cldshtpo@needle.worm
+division : soh
+telephone : 010-5208-0415
+sex : female

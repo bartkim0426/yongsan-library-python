@@ -1,0 +1,6 @@
+name : mfuvs
+age : 32
+e-mail : dyehdbaj@needle.worm
+division : eou
+telephone : 010-0751-8507
+sex : male

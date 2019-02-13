@@ -1,0 +1,6 @@
+name : halai
+age : 59
+e-mail : yxkzlpia@needle.worm
+division : weh
+telephone : 010-1818-5571
+sex : others

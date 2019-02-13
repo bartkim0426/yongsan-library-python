@@ -1,0 +1,6 @@
+name : msizu
+age : 52
+e-mail : ailewshe@needle.worm
+division : cjn
+telephone : 010-7985-9179
+sex : female

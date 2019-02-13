@@ -1,0 +1,6 @@
+name : tkkyk
+age : 42
+e-mail : cjmgqctt@needle.worm
+division : vfd
+telephone : 010-7263-9872
+sex : others

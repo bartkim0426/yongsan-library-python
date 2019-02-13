@@ -1,0 +1,6 @@
+name : upwaa
+age : 78
+e-mail : hcdpqfmm@needle.worm
+division : nzy
+telephone : 010-6686-5668
+sex : male

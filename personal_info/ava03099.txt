@@ -1,0 +1,6 @@
+name : umxsj
+age : 82
+e-mail : nhntjxyb@needle.worm
+division : tns
+telephone : 010-0498-7050
+sex : others

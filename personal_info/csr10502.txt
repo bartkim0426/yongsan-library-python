@@ -1,0 +1,6 @@
+name : jckau
+age : 76
+e-mail : qkhtxjsc@needle.worm
+division : zeo
+telephone : 010-3088-0813
+sex : female

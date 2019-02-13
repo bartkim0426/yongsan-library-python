@@ -1,0 +1,6 @@
+name : rkkjt
+age : 91
+e-mail : batbjwzm@needle.worm
+division : mlo
+telephone : 010-3471-8234
+sex : male

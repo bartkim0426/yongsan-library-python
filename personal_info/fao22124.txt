@@ -1,0 +1,6 @@
+name : rkwau
+age : 27
+e-mail : brwhynwy@needle.worm
+division : itv
+telephone : 010-2871-2228
+sex : male

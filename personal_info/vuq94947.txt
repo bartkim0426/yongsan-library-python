@@ -1,0 +1,6 @@
+name : wnnmi
+age : 99
+e-mail : eltrdeor@needle.worm
+division : onq
+telephone : 010-5077-5950
+sex : male

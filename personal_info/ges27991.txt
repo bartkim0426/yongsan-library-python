@@ -1,0 +1,6 @@
+name : huyce
+age : 75
+e-mail : kydanyer@needle.worm
+division : smy
+telephone : 010-2052-0282
+sex : female

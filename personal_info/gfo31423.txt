@@ -1,0 +1,6 @@
+name : dzmic
+age : 92
+e-mail : purdrsej@needle.worm
+division : dzx
+telephone : 010-1623-0316
+sex : female

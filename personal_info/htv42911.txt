@@ -1,0 +1,6 @@
+name : rrhqx
+age : 24
+e-mail : qbzdukaq@needle.worm
+division : ori
+telephone : 010-0411-6430
+sex : male

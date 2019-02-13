@@ -1,0 +1,6 @@
+name : topze
+age : 78
+e-mail : kmzoiefr@needle.worm
+division : kxv
+telephone : 010-7338-6973
+sex : male

@@ -1,0 +1,6 @@
+name : fmpdz
+age : 58
+e-mail : wwaoiiso@needle.worm
+division : bhx
+telephone : 010-5588-7455
+sex : male

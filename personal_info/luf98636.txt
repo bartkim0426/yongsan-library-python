@@ -1,0 +1,6 @@
+name : wuiin
+age : 22
+e-mail : gypchspb@needle.worm
+division : hsi
+telephone : 010-8539-7988
+sex : others

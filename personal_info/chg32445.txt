@@ -1,0 +1,6 @@
+name : ujbuk
+age : 18
+e-mail : thtcdgkz@needle.worm
+division : trd
+telephone : 010-2652-7326
+sex : others

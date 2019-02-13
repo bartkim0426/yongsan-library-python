@@ -1,0 +1,6 @@
+name : arumk
+age : 67
+e-mail : uyzmodsa@needle.worm
+division : hhe
+telephone : 010-0199-3020
+sex : others

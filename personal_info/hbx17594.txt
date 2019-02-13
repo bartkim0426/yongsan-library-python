@@ -1,0 +1,6 @@
+name : ehyje
+age : 12
+e-mail : impcltej@needle.worm
+division : jrn
+telephone : 010-1773-1773
+sex : others

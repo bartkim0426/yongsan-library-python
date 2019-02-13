@@ -1,0 +1,6 @@
+name : svpgf
+age : 68
+e-mail : akijownn@needle.worm
+division : wsp
+telephone : 010-9154-8915
+sex : others

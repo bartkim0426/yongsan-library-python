@@ -1,0 +1,6 @@
+name : fpsmb
+age : 64
+e-mail : vbenkyan@needle.worm
+division : tsr
+telephone : 010-4996-2499
+sex : male

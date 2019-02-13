@@ -1,0 +1,6 @@
+name : zjjuc
+age : 68
+e-mail : kthjqayp@needle.worm
+division : rvo
+telephone : 010-9852-6098
+sex : female

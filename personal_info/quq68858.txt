@@ -1,0 +1,6 @@
+name : culri
+age : 81
+e-mail : wxxkmoot@needle.worm
+division : wcq
+telephone : 010-0131-8701
+sex : others

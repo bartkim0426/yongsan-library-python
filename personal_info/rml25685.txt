@@ -1,0 +1,6 @@
+name : vvazj
+age : 53
+e-mail : miormnir@needle.worm
+division : dzi
+telephone : 010-5887-.525
+sex : female

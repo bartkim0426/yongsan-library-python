@@ -1,0 +1,6 @@
+name : jgoku
+age : 83
+e-mail : ctprfeat@needle.worm
+division : icx
+telephone : 010-8629-0298
+sex : male

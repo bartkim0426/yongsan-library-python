@@ -1,0 +1,6 @@
+name : mzoha
+age : 32
+e-mail : kbtlnzkp@needle.worm
+division : nas
+telephone : 010-6763-5467
+sex : others

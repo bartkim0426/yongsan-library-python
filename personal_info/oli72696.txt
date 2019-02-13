@@ -1,0 +1,6 @@
+name : lufnx
+age : 81
+e-mail : bssnlbnt@needle.worm
+division : xja
+telephone : 010-7292-0729
+sex : male

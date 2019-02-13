@@ -1,0 +1,6 @@
+name : vuknu
+age : 82
+e-mail : ngxovtgq@needle.worm
+division : ggq
+telephone : 010-1595-9115
+sex : male

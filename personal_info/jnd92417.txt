@@ -1,0 +1,6 @@
+name : jrhjk
+age : 24
+e-mail : tmnjfyzb@needle.worm
+division : khy
+telephone : 010-9254-9254
+sex : male

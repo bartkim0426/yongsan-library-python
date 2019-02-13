@@ -1,0 +1,6 @@
+name : drbdo
+age : 32
+e-mail : mietohut@needle.worm
+division : wrl
+telephone : 010-5209-7845
+sex : male

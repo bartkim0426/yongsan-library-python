@@ -1,0 +1,6 @@
+name : fizuy
+age : 06
+e-mail : btcdagrn@needle.worm
+division : lci
+telephone : 010-8388-9568
+sex : female

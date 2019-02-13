@@ -1,0 +1,6 @@
+name : meoma
+age : 13
+e-mail : tcmyivuj@needle.worm
+division : sxg
+telephone : 010-0123-0123
+sex : others

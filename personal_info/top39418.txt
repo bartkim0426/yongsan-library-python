@@ -1,0 +1,6 @@
+name : yhxjr
+age : 01
+e-mail : fqkgsnfm@needle.worm
+division : wgp
+telephone : 010-4121-0041
+sex : male

@@ -1,0 +1,6 @@
+name : bphkl
+age : 12
+e-mail : impbhpog@needle.worm
+division : cpn
+telephone : 010-5828-.645
+sex : male

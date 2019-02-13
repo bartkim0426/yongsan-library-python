@@ -1,0 +1,6 @@
+name : hoaqq
+age : 92
+e-mail : mssmeacs@needle.worm
+division : lyb
+telephone : 010-2171-9092
+sex : male

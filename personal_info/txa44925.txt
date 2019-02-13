@@ -1,0 +1,6 @@
+name : kemvj
+age : 45
+e-mail : yyumzzwl@needle.worm
+division : inl
+telephone : 010-5086-4509
+sex : male

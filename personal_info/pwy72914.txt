@@ -1,0 +1,6 @@
+name : szwqx
+age : 72
+e-mail : tsrvdjev@needle.worm
+division : afl
+telephone : 010-3103-6731
+sex : others

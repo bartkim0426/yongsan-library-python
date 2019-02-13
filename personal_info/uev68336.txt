@@ -1,0 +1,6 @@
+name : cfmem
+age : 32
+e-mail : zigtkdne@needle.worm
+division : zpo
+telephone : 010-3553-6835
+sex : male

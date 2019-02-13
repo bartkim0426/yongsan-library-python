@@ -1,0 +1,6 @@
+name : akrut
+age : 62
+e-mail : khqavbin@needle.worm
+division : irl
+telephone : 010-5981-8796
+sex : female

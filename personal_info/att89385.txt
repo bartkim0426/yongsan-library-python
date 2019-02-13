@@ -1,0 +1,6 @@
+name : iuahf
+age : 38
+e-mail : amyebike@needle.worm
+division : gob
+telephone : 010-9555-9895
+sex : female

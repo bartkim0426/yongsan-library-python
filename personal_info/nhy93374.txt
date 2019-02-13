@@ -1,0 +1,6 @@
+name : rlueh
+age : 94
+e-mail : vkqirsgh@needle.worm
+division : mos
+telephone : 010-5109-0935
+sex : male

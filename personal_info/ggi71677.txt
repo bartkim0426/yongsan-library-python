@@ -1,0 +1,6 @@
+name : sczja
+age : 51
+e-mail : fxmpunme@needle.worm
+division : ycd
+telephone : 010-1887-7189
+sex : male

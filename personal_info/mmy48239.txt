@@ -1,0 +1,6 @@
+name : fbuxb
+age : 56
+e-mail : vphktquu@needle.worm
+division : cov
+telephone : 010-8373-5483
+sex : male

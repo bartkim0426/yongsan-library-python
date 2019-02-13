@@ -1,0 +1,6 @@
+name : etxof
+age : 49
+e-mail : dwariuna@needle.worm
+division : qyz
+telephone : 010-6772-7567
+sex : male

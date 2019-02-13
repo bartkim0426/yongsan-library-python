@@ -1,0 +1,6 @@
+name : ijwsu
+age : 96
+e-mail : hftbfrnw@needle.worm
+division : qir
+telephone : 010-7528-7753
+sex : male

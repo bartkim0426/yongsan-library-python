@@ -1,0 +1,6 @@
+name : gojlg
+age : 38
+e-mail : doprtdgu@needle.worm
+division : dar
+telephone : 010-8363-5836
+sex : male

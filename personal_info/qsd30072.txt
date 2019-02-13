@@ -1,0 +1,6 @@
+name : kekjo
+age : 16
+e-mail : rwasmfpw@needle.worm
+division : pyb
+telephone : 010-3132-0131
+sex : others

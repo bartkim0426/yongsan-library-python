@@ -1,0 +1,6 @@
+name : kpoig
+age : 14
+e-mail : ngfxzegv@needle.worm
+division : iyc
+telephone : 010-1931-6193
+sex : male

@@ -1,0 +1,6 @@
+name : wqyod
+age : 48
+e-mail : kkaoaqmg@needle.worm
+division : pgk
+telephone : 010-2723-2272
+sex : male

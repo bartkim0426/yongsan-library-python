@@ -1,0 +1,6 @@
+name : jotxi
+age : 32
+e-mail : mxzpgskj@needle.worm
+division : fse
+telephone : 010-6259-5662
+sex : others

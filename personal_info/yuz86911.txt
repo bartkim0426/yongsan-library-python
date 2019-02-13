@@ -1,0 +1,6 @@
+name : chbbi
+age : 24
+e-mail : qtdgmpun@needle.worm
+division : mwe
+telephone : 010-7242-8872
+sex : others

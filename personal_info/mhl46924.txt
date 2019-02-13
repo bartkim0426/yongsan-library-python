@@ -1,0 +1,6 @@
+name : kwocq
+age : 58
+e-mail : adunfzis@needle.worm
+division : vaj
+telephone : 010-7043-4704
+sex : others

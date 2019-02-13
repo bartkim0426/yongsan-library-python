@@ -1,0 +1,6 @@
+name : qzoex
+age : 18
+e-mail : rizkfgai@needle.worm
+division : ibg
+telephone : 010-0489-2305
+sex : male

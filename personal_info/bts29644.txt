@@ -1,0 +1,6 @@
+name : bowbe
+age : 13
+e-mail : mcskrnpl@needle.worm
+division : nnd
+telephone : 010-9846-2985
+sex : others

@@ -1,0 +1,6 @@
+name : ejatf
+age : 88
+e-mail : levkbevp@needle.worm
+division : haf
+telephone : 010-9521-2952
+sex : male

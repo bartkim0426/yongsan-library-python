@@ -1,0 +1,6 @@
+name : djjau
+age : 12
+e-mail : otelgdwv@needle.worm
+division : zkn
+telephone : 010-1332-7681
+sex : female

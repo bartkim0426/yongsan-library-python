@@ -1,0 +1,6 @@
+name : oparu
+age : 36
+e-mail : tgvmqanm@needle.worm
+division : cbm
+telephone : 010-1548-7521
+sex : male

@@ -1,0 +1,6 @@
+name : gpxld
+age : 31
+e-mail : ubblizfg@needle.worm
+division : ryf
+telephone : 010-1665-6916
+sex : male

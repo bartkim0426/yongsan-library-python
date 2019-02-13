@@ -1,0 +1,6 @@
+name : fwzyf
+age : 74
+e-mail : tvlhhtpm@needle.worm
+division : idb
+telephone : 010-7001-9627
+sex : male

@@ -1,0 +1,6 @@
+name : fwkmj
+age : 73
+e-mail : zuumshzd@needle.worm
+division : lxj
+telephone : 010-7049-9827
+sex : female

@@ -1,0 +1,6 @@
+name : wjyca
+age : 62
+e-mail : xiistfsw@needle.worm
+division : xnf
+telephone : 010-0393-6203
+sex : others

@@ -1,0 +1,6 @@
+name : ahubb
+age : 71
+e-mail : tmjcvakj@needle.worm
+division : bwu
+telephone : 010-0992-0609
+sex : others

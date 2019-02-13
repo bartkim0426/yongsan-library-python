@@ -1,0 +1,6 @@
+name : ckaaw
+age : 38
+e-mail : pwkoetro@needle.worm
+division : apy
+telephone : 010-6405-0864
+sex : others

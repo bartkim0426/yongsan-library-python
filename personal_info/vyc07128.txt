@@ -1,0 +1,6 @@
+name : aidtf
+age : 02
+e-mail : ltnkkega@needle.worm
+division : mrw
+telephone : 010-7335-8073
+sex : others

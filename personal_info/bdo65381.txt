@@ -1,0 +1,6 @@
+name : sbqoz
+age : 79
+e-mail : cehzwppu@needle.worm
+division : kmz
+telephone : 010-6824-1682
+sex : male

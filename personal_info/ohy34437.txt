@@ -1,0 +1,6 @@
+name : uhjzk
+age : 78
+e-mail : hijmpipy@needle.worm
+division : hay
+telephone : 010-4596-9345
+sex : male

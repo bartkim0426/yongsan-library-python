@@ -1,0 +1,6 @@
+name : ddphq
+age : 92
+e-mail : kdbbltpe@needle.worm
+division : rzg
+telephone : 010-2218-0022
+sex : female

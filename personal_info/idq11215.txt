@@ -1,0 +1,6 @@
+name : jtukr
+age : 65
+e-mail : vsglqdho@needle.worm
+division : jrp
+telephone : 010-1392-1139
+sex : female

@@ -1,0 +1,6 @@
+name : npioc
+age : 42
+e-mail : rxmzugek@needle.worm
+division : ozb
+telephone : 010-7869-8217
+sex : female

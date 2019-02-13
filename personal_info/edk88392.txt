@@ -1,0 +1,6 @@
+name : njrba
+age : 56
+e-mail : dmvznoag@needle.worm
+division : ctg
+telephone : 010-8596-6885
+sex : male

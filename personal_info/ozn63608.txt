@@ -1,0 +1,6 @@
+name : mfykp
+age : 25
+e-mail : kbnkbvhn@needle.worm
+division : syb
+telephone : 010-3742-7637
+sex : male

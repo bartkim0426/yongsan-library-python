@@ -1,0 +1,6 @@
+name : jdyic
+age : 71
+e-mail : lpkgpadx@needle.worm
+division : wma
+telephone : 010-6376-6376
+sex : male

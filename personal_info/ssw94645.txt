@@ -1,0 +1,6 @@
+name : iltiq
+age : 52
+e-mail : yejmujms@needle.worm
+division : zbm
+telephone : 010-6582-9465
+sex : female

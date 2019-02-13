@@ -1,0 +1,6 @@
+name : rwdev
+age : 26
+e-mail : mmhgolar@needle.worm
+division : zst
+telephone : 010-9266-9926
+sex : male

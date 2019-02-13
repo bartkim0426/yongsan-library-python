@@ -1,0 +1,6 @@
+name : xbnty
+age : 91
+e-mail : nunilmiz@needle.worm
+division : xcf
+telephone : 010-2927-6129
+sex : male

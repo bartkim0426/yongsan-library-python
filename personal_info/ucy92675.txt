@@ -1,0 +1,6 @@
+name : qosog
+age : 59
+e-mail : lodsaptf@needle.worm
+division : xka
+telephone : 010-2824-9282
+sex : female

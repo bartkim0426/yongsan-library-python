@@ -1,0 +1,6 @@
+name : blhkd
+age : 56
+e-mail : craicpkw@needle.worm
+division : vxk
+telephone : 010-5476-7554
+sex : others

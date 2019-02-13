@@ -1,0 +1,6 @@
+name : dnkoh
+age : 89
+e-mail : kfacbhis@needle.worm
+division : nxe
+telephone : 010-7257-0725
+sex : male

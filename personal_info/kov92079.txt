@@ -1,0 +1,6 @@
+name : rqowo
+age : 64
+e-mail : okutkojg@needle.worm
+division : tse
+telephone : 010-2299-8923
+sex : others

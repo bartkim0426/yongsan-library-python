@@ -1,0 +1,6 @@
+name : afxel
+age : 68
+e-mail : aizsmlmo@needle.worm
+division : aav
+telephone : 010-7807-6778
+sex : others

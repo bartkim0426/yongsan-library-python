@@ -1,0 +1,6 @@
+name : vgbtw
+age : 28
+e-mail : qmfksbdr@needle.worm
+division : uno
+telephone : 010-5482-.808
+sex : others

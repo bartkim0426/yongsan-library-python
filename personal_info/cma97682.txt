@@ -1,0 +1,6 @@
+name : hhmiu
+age : 93
+e-mail : lcjqucmu@needle.worm
+division : kvm
+telephone : 010-9962-5799
+sex : male

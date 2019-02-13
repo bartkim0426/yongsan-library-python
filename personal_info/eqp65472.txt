@@ -1,0 +1,6 @@
+name : mvmxs
+age : 78
+e-mail : yryzlxmu@needle.worm
+division : znd
+telephone : 010-6762-3667
+sex : male

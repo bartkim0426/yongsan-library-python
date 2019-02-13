@@ -1,0 +1,6 @@
+name : jursk
+age : 98
+e-mail : bfzjwzzn@needle.worm
+division : nrj
+telephone : 010-8501-5850
+sex : others

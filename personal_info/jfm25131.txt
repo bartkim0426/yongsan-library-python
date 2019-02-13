@@ -1,0 +1,6 @@
+name : loeoc
+age : 35
+e-mail : duwevbnk@needle.worm
+division : bhf
+telephone : 010-2661-0526
+sex : female

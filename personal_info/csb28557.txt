@@ -1,0 +1,6 @@
+name : ywwfe
+age : 72
+e-mail : rgsrbsmp@needle.worm
+division : dye
+telephone : 010-2875-6287
+sex : male

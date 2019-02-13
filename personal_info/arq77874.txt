@@ -1,0 +1,6 @@
+name : qcugv
+age : 44
+e-mail : smstjruk@needle.worm
+division : afe
+telephone : 010-8079-7808
+sex : male

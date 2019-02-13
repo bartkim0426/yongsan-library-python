@@ -1,0 +1,6 @@
+name : rgkht
+age : 67
+e-mail : crwtreig@needle.worm
+division : qtb
+telephone : 010-1084-0110
+sex : male

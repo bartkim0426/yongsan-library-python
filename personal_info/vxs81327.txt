@@ -1,0 +1,6 @@
+name : czuck
+age : 89
+e-mail : efjxigzg@needle.worm
+division : lva
+telephone : 010-5202-6815
+sex : male

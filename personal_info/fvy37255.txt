@@ -1,0 +1,6 @@
+name : jjtzu
+age : 67
+e-mail : xhrtddzl@needle.worm
+division : krc
+telephone : 010-7383-6373
+sex : female

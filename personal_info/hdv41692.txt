@@ -1,0 +1,6 @@
+name : vmikf
+age : 03
+e-mail : oqvrvmmt@needle.worm
+division : pye
+telephone : 010-4182-4182
+sex : male

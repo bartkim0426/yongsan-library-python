@@ -1,0 +1,6 @@
+name : yujfn
+age : 14
+e-mail : luchtdfz@needle.worm
+division : vpk
+telephone : 010-4344-5343
+sex : male

@@ -1,0 +1,6 @@
+name : ckuhn
+age : 03
+e-mail : wcodimxn@needle.worm
+division : gzu
+telephone : 010-8634-1863
+sex : male

@@ -1,0 +1,6 @@
+name : rnfrj
+age : 94
+e-mail : yqoyltml@needle.worm
+division : syt
+telephone : 010-9561-9869
+sex : male

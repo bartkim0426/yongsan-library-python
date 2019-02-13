@@ -1,0 +1,6 @@
+name : yecid
+age : 79
+e-mail : pqgvsioc@needle.worm
+division : cbb
+telephone : 010-4122-9454
+sex : male

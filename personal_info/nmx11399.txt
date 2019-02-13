@@ -1,0 +1,6 @@
+name : jtral
+age : 61
+e-mail : wftucaqd@needle.worm
+division : ber
+telephone : 010-5871-0115
+sex : male

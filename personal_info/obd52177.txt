@@ -1,0 +1,6 @@
+name : vwmjl
+age : 23
+e-mail : excmikcu@needle.worm
+division : jjw
+telephone : 010-2353-5523
+sex : male

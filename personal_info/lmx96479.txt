@@ -1,0 +1,6 @@
+name : adric
+age : 74
+e-mail : kfwzuniz@needle.worm
+division : ngj
+telephone : 010-8979-9897
+sex : female

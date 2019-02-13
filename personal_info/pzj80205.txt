@@ -1,0 +1,6 @@
+name : vifnm
+age : 58
+e-mail : hqigzewq@needle.worm
+division : edv
+telephone : 010-3898-9803
+sex : others

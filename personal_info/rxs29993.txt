@@ -1,0 +1,6 @@
+name : msmdg
+age : 63
+e-mail : ijqazbte@needle.worm
+division : imn
+telephone : 010-0194-8301
+sex : male

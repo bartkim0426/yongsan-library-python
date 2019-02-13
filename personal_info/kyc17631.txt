@@ -1,0 +1,6 @@
+name : vhgab
+age : 62
+e-mail : kenbuhid@needle.worm
+division : nza
+telephone : 010-1778-0177
+sex : male

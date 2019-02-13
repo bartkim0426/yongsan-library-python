@@ -1,0 +1,6 @@
+name : kbdor
+age : 01
+e-mail : mjzkyqsf@needle.worm
+division : qdq
+telephone : 010-8227-0582
+sex : male

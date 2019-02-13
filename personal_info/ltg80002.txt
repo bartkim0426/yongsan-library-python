@@ -1,0 +1,6 @@
+name : grgzu
+age : 58
+e-mail : vezdvsaw@needle.worm
+division : ftl
+telephone : 010-0189-6801
+sex : male

@@ -1,0 +1,6 @@
+name : toddl
+age : 12
+e-mail : rfojjhgl@needle.worm
+division : wci
+telephone : 010-6209-.546
+sex : others

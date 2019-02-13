@@ -1,0 +1,6 @@
+name : csafu
+age : 47
+e-mail : afzrgpfv@needle.worm
+division : wyj
+telephone : 010-8764-6487
+sex : female

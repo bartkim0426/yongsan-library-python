@@ -1,0 +1,6 @@
+name : uiiyc
+age : 55
+e-mail : ozyjlbek@needle.worm
+division : hem
+telephone : 010-2786-.672
+sex : male

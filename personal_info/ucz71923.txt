@@ -1,0 +1,6 @@
+name : kuaak
+age : 78
+e-mail : uapswgzn@needle.worm
+division : fke
+telephone : 010-1102-5721
+sex : male

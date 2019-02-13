@@ -1,0 +1,6 @@
+name : dkned
+age : 52
+e-mail : seayiqtw@needle.worm
+division : xan
+telephone : 010-9268-.789
+sex : female

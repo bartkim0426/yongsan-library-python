@@ -1,0 +1,6 @@
+name : agvym
+age : 83
+e-mail : vwlsubds@needle.worm
+division : vck
+telephone : 010-5214-0852
+sex : others

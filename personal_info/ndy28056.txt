@@ -1,0 +1,6 @@
+name : bjuff
+age : 45
+e-mail : fysqwqsz@needle.worm
+division : biv
+telephone : 010-8279-7282
+sex : others

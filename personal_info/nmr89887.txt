@@ -1,0 +1,6 @@
+name : jnvuo
+age : 29
+e-mail : tabcqecp@needle.worm
+division : wnu
+telephone : 010-9001-9900
+sex : male

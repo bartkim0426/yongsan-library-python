@@ -1,0 +1,6 @@
+name : ojksr
+age : 37
+e-mail : iglcfudz@needle.worm
+division : eog
+telephone : 010-7054-6170
+sex : male

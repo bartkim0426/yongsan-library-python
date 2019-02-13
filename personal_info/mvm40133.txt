@@ -1,0 +1,6 @@
+name : whymw
+age : 18
+e-mail : ywkgmmct@needle.worm
+division : lcl
+telephone : 010-0269-4027
+sex : others

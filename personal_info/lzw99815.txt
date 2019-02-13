@@ -1,0 +1,6 @@
+name : hbcsf
+age : 51
+e-mail : qwdobify@needle.worm
+division : qxt
+telephone : 010-9309-9999
+sex : others

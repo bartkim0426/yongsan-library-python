@@ -1,0 +1,6 @@
+name : yxdnv
+age : 86
+e-mail : zaqrmhky@needle.worm
+division : nup
+telephone : 010-6204-7462
+sex : female

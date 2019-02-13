@@ -1,0 +1,6 @@
+name : ukeun
+age : 26
+e-mail : vjaorcsc@needle.worm
+division : gya
+telephone : 010-3542-0035
+sex : female

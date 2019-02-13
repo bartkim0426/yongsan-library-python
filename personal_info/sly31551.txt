@@ -1,0 +1,6 @@
+name : bwfxy
+age : 69
+e-mail : opsobceq@needle.worm
+division : cug
+telephone : 010-3287-0932
+sex : male

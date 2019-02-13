@@ -1,0 +1,6 @@
+name : nqsao
+age : 28
+e-mail : xrahlemt@needle.worm
+division : mhr
+telephone : 010-0663-5806
+sex : male

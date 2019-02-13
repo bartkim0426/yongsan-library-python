@@ -1,0 +1,6 @@
+name : rndry
+age : 41
+e-mail : yogedkeu@needle.worm
+division : ups
+telephone : 010-8652-0865
+sex : others

@@ -1,0 +1,6 @@
+name : lwchn
+age : 26
+e-mail : akfwtgxb@needle.worm
+division : mlk
+telephone : 010-5558-5655
+sex : female

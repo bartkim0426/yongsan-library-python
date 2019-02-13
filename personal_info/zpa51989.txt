@@ -1,0 +1,6 @@
+name : mnlvt
+age : 13
+e-mail : hgkfdgsr@needle.worm
+division : ybt
+telephone : 010-2161-5216
+sex : male

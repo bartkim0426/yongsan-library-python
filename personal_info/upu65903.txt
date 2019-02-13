@@ -1,0 +1,6 @@
+name : eiosu
+age : 73
+e-mail : nfhhaidm@needle.worm
+division : hkl
+telephone : 010-6131-6613
+sex : others

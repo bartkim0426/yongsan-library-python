@@ -1,0 +1,6 @@
+name : jflkh
+age : 58
+e-mail : arilwozy@needle.worm
+division : bru
+telephone : 010-8092-9809
+sex : others

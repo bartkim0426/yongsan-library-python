@@ -1,0 +1,6 @@
+name : wezsu
+age : 87
+e-mail : qynyzxem@needle.worm
+division : yae
+telephone : 010-2721-0227
+sex : others

@@ -1,0 +1,6 @@
+name : tglfw
+age : 15
+e-mail : kwgalxwf@needle.worm
+division : atd
+telephone : 010-2146-2214
+sex : female

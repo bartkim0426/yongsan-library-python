@@ -1,0 +1,6 @@
+name : mxjud
+age : 13
+e-mail : eeiehnuy@needle.worm
+division : chv
+telephone : 010-4614-0461
+sex : female

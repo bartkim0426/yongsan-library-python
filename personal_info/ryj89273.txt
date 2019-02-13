@@ -1,0 +1,6 @@
+name : aaokc
+age : 03
+e-mail : gmlcsxwb@needle.worm
+division : cfh
+telephone : 010-9422-8942
+sex : male

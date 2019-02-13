@@ -1,0 +1,6 @@
+name : btfki
+age : 78
+e-mail : kxkuytcn@needle.worm
+division : art
+telephone : 010-9978-06.7
+sex : female

@@ -1,0 +1,6 @@
+name : lnyss
+age : 24
+e-mail : kdyrzhbz@needle.worm
+division : bjx
+telephone : 010-4242-4424
+sex : others

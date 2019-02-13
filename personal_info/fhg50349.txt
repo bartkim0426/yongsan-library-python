@@ -1,0 +1,6 @@
+name : pdndm
+age : 82
+e-mail : zmgoseof@needle.worm
+division : nkk
+telephone : 010-0485-5504
+sex : others

@@ -1,0 +1,6 @@
+name : dilxo
+age : 85
+e-mail : wgpjefll@needle.worm
+division : lmo
+telephone : 010-1315-6913
+sex : male

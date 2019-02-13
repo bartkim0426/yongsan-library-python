@@ -1,0 +1,6 @@
+name : poija
+age : 72
+e-mail : cizopxkp@needle.worm
+division : zby
+telephone : 010-1907-9190
+sex : others

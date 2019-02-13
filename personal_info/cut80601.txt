@@ -1,0 +1,6 @@
+name : ambwr
+age : 43
+e-mail : eeyvrglb@needle.worm
+division : nmr
+telephone : 010-8272-8382
+sex : male

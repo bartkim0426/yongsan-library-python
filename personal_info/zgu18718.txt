@@ -1,0 +1,6 @@
+name : fbsjo
+age : 51
+e-mail : wcvevitu@needle.worm
+division : ter
+telephone : 010-2083-6208
+sex : female

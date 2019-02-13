@@ -1,0 +1,6 @@
+name : scbas
+age : 51
+e-mail : fxuaxtcx@needle.worm
+division : xay
+telephone : 010-7269-8472
+sex : male

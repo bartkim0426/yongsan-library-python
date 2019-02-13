@@ -1,0 +1,6 @@
+name : xijer
+age : 82
+e-mail : sbfnhfxk@needle.worm
+division : pzg
+telephone : 010-2821-6228
+sex : male

@@ -1,0 +1,6 @@
+name : iobql
+age : 22
+e-mail : basrezzy@needle.worm
+division : lxh
+telephone : 010-9089-.845
+sex : female

@@ -1,0 +1,6 @@
+name : jmezn
+age : 16
+e-mail : anpodmyk@needle.worm
+division : nnn
+telephone : 010-1617-8916
+sex : others

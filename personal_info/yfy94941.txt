@@ -1,0 +1,6 @@
+name : cgtdy
+age : 42
+e-mail : xjgylrie@needle.worm
+division : akx
+telephone : 010-0568-7950
+sex : others

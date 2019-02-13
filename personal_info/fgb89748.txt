@@ -1,0 +1,6 @@
+name : chisk
+age : 67
+e-mail : bysprnru@needle.worm
+division : qjj
+telephone : 010-8838-5898
+sex : male

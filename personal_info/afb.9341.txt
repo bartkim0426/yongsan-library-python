@@ -1,0 +1,6 @@
+name : qqsfc
+age : 73
+e-mail : txshfram@needle.worm
+division : lqx
+telephone : 010-3061-.934
+sex : female

@@ -1,0 +1,6 @@
+name : jsedg
+age : 11
+e-mail : syjacyod@needle.worm
+division : ljr
+telephone : 010-1651-5441
+sex : female

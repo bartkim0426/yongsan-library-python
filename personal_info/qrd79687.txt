@@ -1,0 +1,6 @@
+name : vyluo
+age : 54
+e-mail : oqvqbxdh@needle.worm
+division : heu
+telephone : 010-9885-7988
+sex : male

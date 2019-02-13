@@ -1,0 +1,6 @@
+name : iorog
+age : 92
+e-mail : nxaoywhl@needle.worm
+division : yna
+telephone : 010-0611-7906
+sex : male

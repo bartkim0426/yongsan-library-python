@@ -1,0 +1,6 @@
+name : ftwrl
+age : 87
+e-mail : sdmczkpy@needle.worm
+division : qrb
+telephone : 010-5102-0145
+sex : male

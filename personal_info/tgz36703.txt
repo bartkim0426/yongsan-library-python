@@ -1,0 +1,6 @@
+name : ljdnp
+age : 84
+e-mail : sbconbhw@needle.worm
+division : icp
+telephone : 010-6872-3687
+sex : male

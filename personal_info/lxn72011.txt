@@ -1,0 +1,6 @@
+name : crwzb
+age : 32
+e-mail : jwpfgrny@needle.worm
+division : yyp
+telephone : 010-2206-7722
+sex : male

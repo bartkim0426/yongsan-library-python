@@ -1,0 +1,6 @@
+name : daxls
+age : 72
+e-mail : hwvrlmca@needle.worm
+division : hsv
+telephone : 010-0902-7909
+sex : male

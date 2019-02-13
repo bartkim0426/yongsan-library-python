@@ -1,0 +1,6 @@
+name : migso
+age : 18
+e-mail : bmusxmqt@needle.worm
+division : ktf
+telephone : 010-6519-.586
+sex : others

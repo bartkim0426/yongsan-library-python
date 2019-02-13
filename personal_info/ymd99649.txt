@@ -1,0 +1,6 @@
+name : fdyyh
+age : 54
+e-mail : wjnspjhe@needle.worm
+division : wmi
+telephone : 010-9771-8997
+sex : male

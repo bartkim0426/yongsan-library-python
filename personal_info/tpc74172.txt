@@ -1,0 +1,6 @@
+name : lilri
+age : 39
+e-mail : immmeyzu@needle.worm
+division : thp
+telephone : 010-7555-8755
+sex : male

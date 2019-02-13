@@ -1,0 +1,6 @@
+name : swgcg
+age : 61
+e-mail : glyvuegv@needle.worm
+division : zmx
+telephone : 010-8682-5186
+sex : female

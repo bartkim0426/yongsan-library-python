@@ -1,0 +1,6 @@
+name : egjsx
+age : 11
+e-mail : xitwwppg@needle.worm
+division : yul
+telephone : 010-6927-7469
+sex : others

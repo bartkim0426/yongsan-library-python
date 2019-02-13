@@ -1,0 +1,6 @@
+name : jyzzi
+age : 68
+e-mail : qkeeeqkt@needle.worm
+division : kmq
+telephone : 010-3242-6324
+sex : male

@@ -1,0 +1,6 @@
+name : ojhec
+age : 97
+e-mail : fnqpemsu@needle.worm
+division : jdh
+telephone : 010-5237-0952
+sex : others

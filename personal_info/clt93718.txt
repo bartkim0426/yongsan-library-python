@@ -1,0 +1,6 @@
+name : mjuye
+age : 91
+e-mail : yecqunax@needle.worm
+division : psd
+telephone : 010-3855-8938
+sex : male

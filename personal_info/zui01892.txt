@@ -1,0 +1,6 @@
+name : lrbzg
+age : 11
+e-mail : sszkjajs@needle.worm
+division : djk
+telephone : 010-2029-.102
+sex : male

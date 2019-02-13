@@ -1,0 +1,6 @@
+name : jnrik
+age : 94
+e-mail : pochfuhv@needle.worm
+division : wzf
+telephone : 010-7611-0761
+sex : others

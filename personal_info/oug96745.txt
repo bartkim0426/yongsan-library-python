@@ -1,0 +1,6 @@
+name : xtgjh
+age : 57
+e-mail : atyifomn@needle.worm
+division : yzw
+telephone : 010-6875-6968
+sex : male

@@ -1,0 +1,6 @@
+name : jsotm
+age : 15
+e-mail : ylajcmas@needle.worm
+division : qkl
+telephone : 010-1449-7514
+sex : male

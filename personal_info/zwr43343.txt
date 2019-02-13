@@ -1,0 +1,6 @@
+name : wtaod
+age : 82
+e-mail : zaisemcb@needle.worm
+division : jbq
+telephone : 010-4649-8434
+sex : others

@@ -1,0 +1,6 @@
+name : abxnp
+age : 79
+e-mail : habtrbab@needle.worm
+division : bix
+telephone : 010-6515-5765
+sex : male

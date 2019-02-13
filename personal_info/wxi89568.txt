@@ -1,0 +1,6 @@
+name : gjdks
+age : 58
+e-mail : fuwmfrul@needle.worm
+division : nns
+telephone : 010-9129-0891
+sex : female

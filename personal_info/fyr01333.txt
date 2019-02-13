@@ -1,0 +1,6 @@
+name : wraij
+age : 95
+e-mail : assfsdep@needle.worm
+division : jfo
+telephone : 010-5198-1015
+sex : male

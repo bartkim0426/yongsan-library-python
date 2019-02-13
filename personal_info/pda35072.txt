@@ -1,0 +1,6 @@
+name : fuwei
+age : 47
+e-mail : cuwajtfv@needle.worm
+division : lju
+telephone : 010-5263-6352
+sex : male

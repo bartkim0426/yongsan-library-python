@@ -1,0 +1,6 @@
+name : snuae
+age : 48
+e-mail : zluajaph@needle.worm
+division : wka
+telephone : 010-4893-1489
+sex : male

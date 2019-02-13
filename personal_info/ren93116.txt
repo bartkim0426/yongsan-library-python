@@ -1,0 +1,6 @@
+name : dxkvr
+age : 76
+e-mail : rinpsyli@needle.worm
+division : cjb
+telephone : 010-3334-9333
+sex : male

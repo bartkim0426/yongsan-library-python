@@ -1,0 +1,6 @@
+name : edyyr
+age : 73
+e-mail : fmayqmls@needle.worm
+division : dot
+telephone : 010-3589-5435
+sex : female

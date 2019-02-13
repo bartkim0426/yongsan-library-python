@@ -1,0 +1,6 @@
+name : ryhpy
+age : 73
+e-mail : lbygtsks@needle.worm
+division : cjr
+telephone : 010-5299-9530
+sex : others

@@ -1,0 +1,6 @@
+name : erydl
+age : 42
+e-mail : ibdbntzv@needle.worm
+division : nao
+telephone : 010-7758-8377
+sex : male

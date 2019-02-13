@@ -1,0 +1,6 @@
+name : jrccx
+age : 58
+e-mail : qhibfred@needle.worm
+division : swi
+telephone : 010-8385-0838
+sex : male

@@ -1,0 +1,6 @@
+name : rwetj
+age : 52
+e-mail : vnjgipya@needle.worm
+division : ldc
+telephone : 010-8379-6808
+sex : others

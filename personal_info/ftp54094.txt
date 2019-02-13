@@ -1,0 +1,6 @@
+name : efwce
+age : 19
+e-mail : yhcrplyo@needle.worm
+division : kia
+telephone : 010-1078-.541
+sex : female

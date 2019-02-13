@@ -1,0 +1,6 @@
+name : nwvht
+age : 16
+e-mail : mzthnzfc@needle.worm
+division : irl
+telephone : 010-8479-9638
+sex : male

@@ -1,0 +1,6 @@
+name : ljwli
+age : 14
+e-mail : doymsrmd@needle.worm
+division : ivq
+telephone : 010-7546-7575
+sex : others

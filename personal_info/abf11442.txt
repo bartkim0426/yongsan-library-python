@@ -1,0 +1,6 @@
+name : heuas
+age : 81
+e-mail : dkcflcnu@needle.worm
+division : wmi
+telephone : 010-1598-8115
+sex : male

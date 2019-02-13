@@ -1,0 +1,6 @@
+name : ivajl
+age : 51
+e-mail : maljrfpx@needle.worm
+division : djw
+telephone : 010-6568-9865
+sex : others

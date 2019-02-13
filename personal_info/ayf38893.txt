@@ -1,0 +1,6 @@
+name : lxxbn
+age : 31
+e-mail : kpmihroa@needle.worm
+division : ayy
+telephone : 010-3903-5390
+sex : female

@@ -1,0 +1,6 @@
+name : zatrq
+age : 26
+e-mail : xeaureue@needle.worm
+division : kkv
+telephone : 010-9856-8986
+sex : male

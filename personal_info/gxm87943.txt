@@ -1,0 +1,6 @@
+name : knsuf
+age : 13
+e-mail : xiaevspe@needle.worm
+division : uzb
+telephone : 010-8131-8813
+sex : male

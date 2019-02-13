@@ -1,0 +1,6 @@
+name : yfbku
+age : 91
+e-mail : wouxmudy@needle.worm
+division : fpq
+telephone : 010-0124-7501
+sex : female

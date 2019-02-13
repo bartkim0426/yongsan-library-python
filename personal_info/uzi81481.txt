@@ -1,0 +1,6 @@
+name : ebudk
+age : 92
+e-mail : tzxxegnk@needle.worm
+division : jin
+telephone : 010-7019-9817
+sex : female

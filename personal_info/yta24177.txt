@@ -1,0 +1,6 @@
+name : ddvag
+age : 78
+e-mail : wstdrvhh@needle.worm
+division : yea
+telephone : 010-4442-7244
+sex : female

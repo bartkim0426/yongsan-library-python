@@ -1,0 +1,6 @@
+name : thadg
+age : 58
+e-mail : lgsgrbne@needle.worm
+division : feq
+telephone : 010-7994-5800
+sex : others

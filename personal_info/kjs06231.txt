@@ -1,0 +1,6 @@
+name : woyum
+age : 19
+e-mail : megyylvt@needle.worm
+division : koh
+telephone : 010-8809-0808
+sex : female

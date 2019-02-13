@@ -1,0 +1,6 @@
+name : eioki
+age : 09
+e-mail : obazdytv@needle.worm
+division : gxa
+telephone : 010-7252-5867
+sex : others

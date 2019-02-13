@@ -1,0 +1,6 @@
+name : earbt
+age : 24
+e-mail : mjxpcrgj@needle.worm
+division : nio
+telephone : 010-2588-0912
+sex : male

@@ -1,0 +1,6 @@
+name : djvnv
+age : 84
+e-mail : hidiaoiv@needle.worm
+division : jzk
+telephone : 010-6314-2631
+sex : others

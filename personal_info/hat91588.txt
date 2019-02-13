@@ -1,0 +1,6 @@
+name : pjsuc
+age : 68
+e-mail : bdbhfoya@needle.worm
+division : keh
+telephone : 010-3052-0930
+sex : male

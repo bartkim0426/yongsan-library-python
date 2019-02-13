@@ -1,0 +1,6 @@
+name : gnysv
+age : 75
+e-mail : algjvyuc@needle.worm
+division : pez
+telephone : 010-7458-6674
+sex : others

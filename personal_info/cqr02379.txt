@@ -1,0 +1,6 @@
+name : keprc
+age : 19
+e-mail : guiemprl@needle.worm
+division : nba
+telephone : 010-9026-9026
+sex : male

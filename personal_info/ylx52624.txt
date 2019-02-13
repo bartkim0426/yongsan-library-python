@@ -1,0 +1,6 @@
+name : ysngh
+age : 21
+e-mail : ftsgdwry@needle.worm
+division : vzb
+telephone : 010-2822-7528
+sex : female

@@ -1,0 +1,6 @@
+name : shvff
+age : 12
+e-mail : rzgevcmf@needle.worm
+division : wim
+telephone : 010-5318-.555
+sex : others

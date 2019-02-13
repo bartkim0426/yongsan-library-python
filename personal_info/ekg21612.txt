@@ -1,0 +1,6 @@
+name : empqk
+age : 79
+e-mail : bqdwicyo@needle.worm
+division : sir
+telephone : 010-8219-6218
+sex : female

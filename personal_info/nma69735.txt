@@ -1,0 +1,6 @@
+name : dxgur
+age : 01
+e-mail : bioururj@needle.worm
+division : qzj
+telephone : 010-9368-9699
+sex : male

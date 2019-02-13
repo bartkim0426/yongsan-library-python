@@ -1,0 +1,6 @@
+name : vltlw
+age : 72
+e-mail : ooxgkeof@needle.worm
+division : ddp
+telephone : 010-5163-7516
+sex : others

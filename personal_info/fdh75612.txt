@@ -1,0 +1,6 @@
+name : rkwda
+age : 82
+e-mail : ycnzkexl@needle.worm
+division : ymz
+telephone : 010-8149-6758
+sex : female

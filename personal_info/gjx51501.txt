@@ -1,0 +1,6 @@
+name : tawxl
+age : 07
+e-mail : rizmfjrd@needle.worm
+division : ujg
+telephone : 010-6228-8516
+sex : others

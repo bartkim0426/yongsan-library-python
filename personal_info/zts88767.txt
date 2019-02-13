@@ -1,0 +1,6 @@
+name : wjnok
+age : 38
+e-mail : aajfwyab@needle.worm
+division : vco
+telephone : 010-8913-8889
+sex : male

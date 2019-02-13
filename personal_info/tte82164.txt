@@ -1,0 +1,6 @@
+name : aipma
+age : 38
+e-mail : uvblmkiy@needle.worm
+division : rbi
+telephone : 010-2369-9823
+sex : male

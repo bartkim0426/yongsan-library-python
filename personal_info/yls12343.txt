@@ -1,0 +1,6 @@
+name : uqqyz
+age : 84
+e-mail : nnyfbome@needle.worm
+division : cri
+telephone : 010-2501-1250
+sex : male

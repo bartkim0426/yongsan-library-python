@@ -1,0 +1,6 @@
+name : uygwd
+age : 33
+e-mail : blhggydr@needle.worm
+division : pqt
+telephone : 010-3362-5333
+sex : female

@@ -1,0 +1,6 @@
+name : pboal
+age : 38
+e-mail : nbmttkkr@needle.worm
+division : kyf
+telephone : 010-5191-9519
+sex : male

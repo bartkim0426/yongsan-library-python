@@ -1,0 +1,6 @@
+name : mbcpc
+age : 46
+e-mail : mwfxifts@needle.worm
+division : cst
+telephone : 010-9781-0549
+sex : male

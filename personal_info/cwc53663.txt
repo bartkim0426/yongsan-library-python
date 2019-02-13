@@ -1,0 +1,6 @@
+name : ndpgm
+age : 77
+e-mail : fknnjxty@needle.worm
+division : zzw
+telephone : 010-7862-8537
+sex : others

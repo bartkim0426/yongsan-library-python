@@ -1,0 +1,6 @@
+name : tnxvc
+age : 88
+e-mail : rpgehfoz@needle.worm
+division : aid
+telephone : 010-2332-2332
+sex : male

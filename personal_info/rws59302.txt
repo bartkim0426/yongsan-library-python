@@ -1,0 +1,6 @@
+name : aksqo
+age : 95
+e-mail : ohmznegi@needle.worm
+division : ymt
+telephone : 010-6128-5613
+sex : male

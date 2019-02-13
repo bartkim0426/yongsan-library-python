@@ -1,0 +1,6 @@
+name : lfbiv
+age : 51
+e-mail : hwoghsvv@needle.worm
+division : vjk
+telephone : 010-5983-0259
+sex : others

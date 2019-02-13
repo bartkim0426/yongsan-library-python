@@ -1,0 +1,6 @@
+name : fpafa
+age : 21
+e-mail : dxouoltt@needle.worm
+division : uem
+telephone : 010-5039-.855
+sex : male

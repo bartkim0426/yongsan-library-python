@@ -1,0 +1,6 @@
+name : kdinq
+age : 24
+e-mail : nuqngjqj@needle.worm
+division : csa
+telephone : 010-5256-1525
+sex : male

@@ -1,0 +1,6 @@
+name : tnboq
+age : 88
+e-mail : auzjilks@needle.worm
+division : sgr
+telephone : 010-5068-0965
+sex : others

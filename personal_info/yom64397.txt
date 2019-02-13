@@ -1,0 +1,6 @@
+name : bamog
+age : 71
+e-mail : smgbaqae@needle.worm
+division : aog
+telephone : 010-6049-9646
+sex : male

@@ -1,0 +1,6 @@
+name : ofvsm
+age : 43
+e-mail : aikettws@needle.worm
+division : puq
+telephone : 010-1175-6811
+sex : others

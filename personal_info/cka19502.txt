@@ -1,0 +1,6 @@
+name : snnqo
+age : 69
+e-mail : bmsjdfrs@needle.worm
+division : zyo
+telephone : 010-9707-8197
+sex : male

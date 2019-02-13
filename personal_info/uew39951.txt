@@ -1,0 +1,6 @@
+name : smjrv
+age : 71
+e-mail : lcjybijl@needle.worm
+division : tjn
+telephone : 010-0729-8400
+sex : male

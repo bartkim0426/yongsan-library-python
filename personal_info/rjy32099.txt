@@ -1,0 +1,6 @@
+name : wewtt
+age : 65
+e-mail : tinmbaro@needle.worm
+division : oow
+telephone : 010-2296-7.03
+sex : female

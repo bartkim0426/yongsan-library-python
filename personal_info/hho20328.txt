@@ -1,0 +1,6 @@
+name : hosyw
+age : 78
+e-mail : spjeyzoy@needle.worm
+division : gfs
+telephone : 010-7098-9207
+sex : male

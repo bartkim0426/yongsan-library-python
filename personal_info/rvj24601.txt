@@ -1,0 +1,6 @@
+name : xxhyg
+age : 79
+e-mail : sodzpxny@needle.worm
+division : hjt
+telephone : 010-4823-2482
+sex : male

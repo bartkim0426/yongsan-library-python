@@ -1,0 +1,6 @@
+name : bqlcf
+age : 91
+e-mail : gtsdvshy@needle.worm
+division : zxe
+telephone : 010-2551-7625
+sex : male

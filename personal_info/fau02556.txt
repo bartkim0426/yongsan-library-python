@@ -1,0 +1,6 @@
+name : gezdl
+age : 77
+e-mail : wnmhidwx@needle.worm
+division : asa
+telephone : 010-2695-0269
+sex : male

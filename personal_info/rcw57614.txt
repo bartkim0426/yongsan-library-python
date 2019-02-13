@@ -1,0 +1,6 @@
+name : vhlyw
+age : 12
+e-mail : aijdopdb@needle.worm
+division : stp
+telephone : 010-7759-.557
+sex : female

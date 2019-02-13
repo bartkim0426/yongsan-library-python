@@ -1,0 +1,6 @@
+name : yetvs
+age : 71
+e-mail : obcrvvwa@needle.worm
+division : med
+telephone : 010-7297-6.86
+sex : male

@@ -1,0 +1,6 @@
+name : hunbo
+age : 29
+e-mail : gwgrofxe@needle.worm
+division : gee
+telephone : 010-9322-6493
+sex : female

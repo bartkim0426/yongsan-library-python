@@ -1,0 +1,6 @@
+name : idlfd
+age : 65
+e-mail : pzlzncog@needle.worm
+division : csz
+telephone : 010-5897-0759
+sex : male

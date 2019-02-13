@@ -1,0 +1,6 @@
+name : nbkyn
+age : 12
+e-mail : oeagquop@needle.worm
+division : yja
+telephone : 010-1375-8913
+sex : male

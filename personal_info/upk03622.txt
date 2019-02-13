@@ -1,0 +1,6 @@
+name : csrad
+age : 32
+e-mail : dtkafskm@needle.worm
+division : myo
+telephone : 010-0588-7305
+sex : female

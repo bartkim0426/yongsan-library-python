@@ -1,0 +1,6 @@
+name : fsufy
+age : 71
+e-mail : zuhfyfkm@needle.worm
+division : kys
+telephone : 010-1469-5714
+sex : male

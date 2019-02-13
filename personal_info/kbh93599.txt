@@ -1,0 +1,6 @@
+name : ucvjs
+age : 22
+e-mail : yojggelo@needle.worm
+division : pom
+telephone : 010-9555-7295
+sex : male

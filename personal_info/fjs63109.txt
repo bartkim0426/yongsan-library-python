@@ -1,0 +1,6 @@
+name : kuydr
+age : 52
+e-mail : jfiqkxkd@needle.worm
+division : cht
+telephone : 010-3232-6632
+sex : male

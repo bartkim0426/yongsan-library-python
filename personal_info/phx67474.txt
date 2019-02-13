@@ -1,0 +1,6 @@
+name : lbbdw
+age : 37
+e-mail : opdckjpy@needle.worm
+division : vhr
+telephone : 010-7671-6767
+sex : male

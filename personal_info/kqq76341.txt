@@ -1,0 +1,6 @@
+name : yjudd
+age : 48
+e-mail : ljwnalhm@needle.worm
+division : otr
+telephone : 010-7782-9778
+sex : male

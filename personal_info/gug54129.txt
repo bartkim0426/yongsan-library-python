@@ -1,0 +1,6 @@
+name : dmywx
+age : 68
+e-mail : ranwoafh@needle.worm
+division : lmc
+telephone : 010-2998-0543
+sex : female

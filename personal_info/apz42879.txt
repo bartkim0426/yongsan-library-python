@@ -1,0 +1,6 @@
+name : bnedt
+age : 81
+e-mail : khxwjawo@needle.worm
+division : hcz
+telephone : 010-3115-9431
+sex : others

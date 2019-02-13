@@ -1,0 +1,6 @@
+name : puwab
+age : 78
+e-mail : lxnrnpfh@needle.worm
+division : scw
+telephone : 010-7497-8174
+sex : others

@@ -1,0 +1,6 @@
+name : hslgh
+age : 72
+e-mail : irkrdhrn@needle.worm
+division : qrr
+telephone : 010-4624-7546
+sex : female

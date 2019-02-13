@@ -1,0 +1,6 @@
+name : iswkj
+age : 95
+e-mail : ubkymaoh@needle.worm
+division : zzt
+telephone : 010-1821-0418
+sex : others

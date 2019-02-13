@@ -1,0 +1,6 @@
+name : edpdg
+age : 02
+e-mail : qjygslcx@needle.worm
+division : qkm
+telephone : 010-1369-8881
+sex : male

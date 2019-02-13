@@ -1,0 +1,6 @@
+name : dcorm
+age : 08
+e-mail : exiiauug@needle.worm
+division : pmo
+telephone : 010-3294-3294
+sex : others

@@ -1,0 +1,6 @@
+name : kourj
+age : 89
+e-mail : ardzehwm@needle.worm
+division : vkw
+telephone : 010-2882-2882
+sex : male

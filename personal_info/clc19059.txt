@@ -1,0 +1,6 @@
+name : wurcc
+age : 17
+e-mail : sjccsaph@needle.worm
+division : wfc
+telephone : 010-2033-6203
+sex : male

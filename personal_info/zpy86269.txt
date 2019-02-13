@@ -1,0 +1,6 @@
+name : fhdwn
+age : 19
+e-mail : dzonnnou@needle.worm
+division : ctu
+telephone : 010-8855-8885
+sex : male

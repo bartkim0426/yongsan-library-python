@@ -1,0 +1,6 @@
+name : nqkji
+age : 24
+e-mail : jdtkdusk@needle.worm
+division : her
+telephone : 010-9644-8964
+sex : male

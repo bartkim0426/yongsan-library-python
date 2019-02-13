@@ -1,0 +1,6 @@
+name : clgox
+age : 06
+e-mail : cbghzhqq@needle.worm
+division : bas
+telephone : 010-6359-7276
+sex : male

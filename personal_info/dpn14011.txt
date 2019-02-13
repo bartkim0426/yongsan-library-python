@@ -1,0 +1,6 @@
+name : thexj
+age : 79
+e-mail : pvzatwva@needle.worm
+division : gsb
+telephone : 010-1421-1421
+sex : others

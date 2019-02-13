@@ -1,0 +1,6 @@
+name : sfoak
+age : 72
+e-mail : whzuqfmf@needle.worm
+division : lgb
+telephone : 010-7203-2720
+sex : others

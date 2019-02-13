@@ -1,0 +1,6 @@
+name : smzhb
+age : 04
+e-mail : kjotvpdj@needle.worm
+division : juv
+telephone : 010-3233-0732
+sex : male

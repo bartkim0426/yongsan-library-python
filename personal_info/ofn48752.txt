@@ -1,0 +1,6 @@
+name : nhesa
+age : 56
+e-mail : byozobai@needle.worm
+division : sio
+telephone : 010-9899-4899
+sex : male

@@ -1,0 +1,6 @@
+name : ostpw
+age : 01
+e-mail : fcnrrcag@needle.worm
+division : bmq
+telephone : 010-8341-0678
+sex : male

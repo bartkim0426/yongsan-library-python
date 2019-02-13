@@ -1,0 +1,6 @@
+name : rhbud
+age : 33
+e-mail : vogpokil@needle.worm
+division : qfx
+telephone : 010-7197-1720
+sex : others

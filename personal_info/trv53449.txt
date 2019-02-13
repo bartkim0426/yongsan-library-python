@@ -1,0 +1,6 @@
+name : dvyzs
+age : 48
+e-mail : frsmdysn@needle.worm
+division : ybz
+telephone : 010-3564-6535
+sex : male

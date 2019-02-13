@@ -1,0 +1,6 @@
+name : rgchx
+age : 22
+e-mail : lntzomff@needle.worm
+division : ulh
+telephone : 010-3542-6035
+sex : others

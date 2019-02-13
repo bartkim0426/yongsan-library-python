@@ -1,0 +1,6 @@
+name : dvjim
+age : 61
+e-mail : ufjaqiyx@needle.worm
+division : bja
+telephone : 010-9641-5796
+sex : male

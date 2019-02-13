@@ -1,0 +1,6 @@
+name : bttdi
+age : 12
+e-mail : tbbdhzie@needle.worm
+division : cuk
+telephone : 010-2624-7126
+sex : others

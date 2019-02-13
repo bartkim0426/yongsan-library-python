@@ -1,0 +1,6 @@
+name : koawf
+age : 52
+e-mail : pganlscp@needle.worm
+division : sso
+telephone : 010-8138-7788
+sex : others

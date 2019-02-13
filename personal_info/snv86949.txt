@@ -1,0 +1,6 @@
+name : hyrli
+age : 88
+e-mail : nxhdvxen@needle.worm
+division : ueh
+telephone : 010-6972-6972
+sex : male

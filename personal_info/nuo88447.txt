@@ -1,0 +1,6 @@
+name : vsphh
+age : 63
+e-mail : gfrgdgiy@needle.worm
+division : vjw
+telephone : 010-5792-0885
+sex : others

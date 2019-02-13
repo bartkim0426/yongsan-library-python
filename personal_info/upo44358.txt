@@ -1,0 +1,6 @@
+name : nxgpg
+age : 78
+e-mail : slcbyopk@needle.worm
+division : hge
+telephone : 010-4497-8444
+sex : others

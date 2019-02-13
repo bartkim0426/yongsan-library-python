@@ -1,0 +1,6 @@
+name : haaks
+age : 28
+e-mail : xnhprdny@needle.worm
+division : hgd
+telephone : 010-1438-7031
+sex : male

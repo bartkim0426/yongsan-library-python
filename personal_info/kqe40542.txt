@@ -1,0 +1,6 @@
+name : boctz
+age : 64
+e-mail : diwtvfos@needle.worm
+division : rdj
+telephone : 010-0681-0406
+sex : others

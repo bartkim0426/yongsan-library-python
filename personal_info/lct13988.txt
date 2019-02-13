@@ -1,0 +1,6 @@
+name : gnudi
+age : 31
+e-mail : vzjozcal@needle.worm
+division : xdo
+telephone : 010-5479-.711
+sex : male

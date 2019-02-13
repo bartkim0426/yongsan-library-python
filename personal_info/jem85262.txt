@@ -1,0 +1,6 @@
+name : hsjda
+age : 94
+e-mail : dmsofkek@needle.worm
+division : beq
+telephone : 010-4111-7854
+sex : others

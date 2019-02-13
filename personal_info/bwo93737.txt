@@ -1,0 +1,6 @@
+name : otveb
+age : 69
+e-mail : vcsptzye@needle.worm
+division : nut
+telephone : 010-9394-5939
+sex : male

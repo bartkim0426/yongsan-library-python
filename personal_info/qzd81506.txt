@@ -1,0 +1,6 @@
+name : mitex
+age : 58
+e-mail : vzcvkgnf@needle.worm
+division : vfc
+telephone : 010-5215-1521
+sex : male

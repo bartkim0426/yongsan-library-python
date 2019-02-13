@@ -1,0 +1,6 @@
+name : sytkm
+age : 45
+e-mail : irltlrjw@needle.worm
+division : moo
+telephone : 010-1876-3187
+sex : others

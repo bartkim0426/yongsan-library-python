@@ -1,0 +1,6 @@
+name : ixsik
+age : 71
+e-mail : yyfaxljo@needle.worm
+division : ccv
+telephone : 010-9378-8938
+sex : others

@@ -1,0 +1,6 @@
+name : xwlsa
+age : 74
+e-mail : syroykmk@needle.worm
+division : smo
+telephone : 010-9912-9499
+sex : female

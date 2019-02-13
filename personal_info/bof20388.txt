@@ -1,0 +1,6 @@
+name : uzygb
+age : 92
+e-mail : mldtgipk@needle.worm
+division : zcm
+telephone : 010-2222-8722
+sex : female

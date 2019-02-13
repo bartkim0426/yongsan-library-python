@@ -1,0 +1,6 @@
+name : ksnoy
+age : 62
+e-mail : fcuaksuw@needle.worm
+division : hdr
+telephone : 010-2932-8429
+sex : others

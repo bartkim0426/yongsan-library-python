@@ -1,0 +1,6 @@
+name : vswyg
+age : 42
+e-mail : kmcsrgls@needle.worm
+division : ihl
+telephone : 010-1395-7139
+sex : others

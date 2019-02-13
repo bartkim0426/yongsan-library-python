@@ -1,0 +1,6 @@
+name : wdwut
+age : 11
+e-mail : hwmwxfbb@needle.worm
+division : wgl
+telephone : 010-9321-7289
+sex : female

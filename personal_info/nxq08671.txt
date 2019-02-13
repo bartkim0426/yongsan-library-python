@@ -1,0 +1,6 @@
+name : ibsdm
+age : 83
+e-mail : qqkidhza@needle.worm
+division : dzx
+telephone : 010-8799-0088
+sex : male

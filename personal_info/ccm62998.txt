@@ -1,0 +1,6 @@
+name : prghe
+age : 93
+e-mail : lnblhids@needle.worm
+division : vdt
+telephone : 010-6528-8865
+sex : male

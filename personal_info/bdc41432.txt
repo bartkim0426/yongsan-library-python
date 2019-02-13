@@ -1,0 +1,6 @@
+name : tpnkk
+age : 31
+e-mail : pgmecssn@needle.worm
+division : feq
+telephone : 010-4341-0243
+sex : male

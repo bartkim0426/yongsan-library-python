@@ -1,0 +1,6 @@
+name : nakkk
+age : 08
+e-mail : bskjbznv@needle.worm
+division : cqr
+telephone : 010-3001-9513
+sex : female

@@ -1,0 +1,6 @@
+name : nnien
+age : 27
+e-mail : cxaeukgo@needle.worm
+division : fdz
+telephone : 010-6428-8556
+sex : others

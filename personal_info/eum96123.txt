@@ -1,0 +1,6 @@
+name : ikqlo
+age : 71
+e-mail : ltkoikcm@needle.worm
+division : fcs
+telephone : 010-2429-8962
+sex : male

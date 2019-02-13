@@ -1,0 +1,6 @@
+name : mbsfd
+age : 11
+e-mail : hjyosmvi@needle.worm
+division : kbw
+telephone : 010-0163-0001
+sex : male

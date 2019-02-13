@@ -1,0 +1,6 @@
+name : aroea
+age : 77
+e-mail : flixiwky@needle.worm
+division : xtb
+telephone : 010-3193-8931
+sex : others

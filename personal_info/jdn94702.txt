@@ -1,0 +1,6 @@
+name : bcyyj
+age : 83
+e-mail : rhhedzfw@needle.worm
+division : ffq
+telephone : 010-4848-5948
+sex : male

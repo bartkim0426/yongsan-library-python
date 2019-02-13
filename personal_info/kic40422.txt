@@ -1,0 +1,6 @@
+name : jwksn
+age : 45
+e-mail : ozizespt@needle.worm
+division : uuk
+telephone : 010-4161-1416
+sex : others

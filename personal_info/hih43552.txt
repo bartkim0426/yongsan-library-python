@@ -1,0 +1,6 @@
+name : cgosm
+age : 62
+e-mail : jaxwdmxf@needle.worm
+division : xoj
+telephone : 010-3679-.643
+sex : others

@@ -1,0 +1,6 @@
+name : aqlyr
+age : 16
+e-mail : zxnekbdd@needle.worm
+division : aym
+telephone : 010-9492-7309
+sex : female

@@ -1,0 +1,6 @@
+name : scuos
+age : 12
+e-mail : enprfxmk@needle.worm
+division : uka
+telephone : 010-3529-1353
+sex : female

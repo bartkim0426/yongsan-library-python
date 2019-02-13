@@ -1,0 +1,6 @@
+name : oqgng
+age : 22
+e-mail : dmsngtgu@needle.worm
+division : wfa
+telephone : 010-2153-7821
+sex : female

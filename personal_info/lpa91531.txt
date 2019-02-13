@@ -1,0 +1,6 @@
+name : dqsqc
+age : 35
+e-mail : jfhsivcs@needle.worm
+division : jml
+telephone : 010-1651-9165
+sex : male

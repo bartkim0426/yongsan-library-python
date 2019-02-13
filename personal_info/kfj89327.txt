@@ -1,0 +1,6 @@
+name : sxudi
+age : 18
+e-mail : vvultsma@needle.worm
+division : xix
+telephone : 010-3408-.893
+sex : male

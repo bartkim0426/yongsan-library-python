@@ -1,0 +1,6 @@
+name : ogtya
+age : 51
+e-mail : hiexrdfw@needle.worm
+division : dzk
+telephone : 010-2369-9237
+sex : female

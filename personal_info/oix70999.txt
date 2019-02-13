@@ -1,0 +1,6 @@
+name : glukd
+age : 03
+e-mail : kclxaogq@needle.worm
+division : iul
+telephone : 010-2188-7672
+sex : male

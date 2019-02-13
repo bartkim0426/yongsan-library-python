@@ -1,0 +1,6 @@
+name : nrhri
+age : 04
+e-mail : pcqthgdt@needle.worm
+division : jkr
+telephone : 010-8533-6853
+sex : male

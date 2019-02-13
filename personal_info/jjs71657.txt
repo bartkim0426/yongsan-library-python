@@ -1,0 +1,6 @@
+name : jbrdn
+age : 58
+e-mail : tziahdoy@needle.worm
+division : tbq
+telephone : 010-1887-7189
+sex : male

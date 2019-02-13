@@ -1,0 +1,6 @@
+name : ilbbf
+age : 12
+e-mail : ftuktznh@needle.worm
+division : rwd
+telephone : 010-4532-6724
+sex : male

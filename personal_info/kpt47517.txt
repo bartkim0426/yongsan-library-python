@@ -1,0 +1,6 @@
+name : ayuka
+age : 16
+e-mail : rkrfzjeg@needle.worm
+division : sen
+telephone : 010-7632-6476
+sex : others

@@ -1,0 +1,6 @@
+name : ftcet
+age : 72
+e-mail : xwfgntyk@needle.worm
+division : fzo
+telephone : 010-0062-8690
+sex : others

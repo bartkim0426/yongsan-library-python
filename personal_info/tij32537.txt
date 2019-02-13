@@ -1,0 +1,6 @@
+name : lyoeq
+age : 05
+e-mail : ycmfovth@needle.worm
+division : ihl
+telephone : 010-7349-5327
+sex : male

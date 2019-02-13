@@ -1,0 +1,6 @@
+name : ffqwj
+age : 15
+e-mail : hdodljpo@needle.worm
+division : tlq
+telephone : 010-9831-7598
+sex : male

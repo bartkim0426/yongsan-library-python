@@ -1,0 +1,6 @@
+name : edkrz
+age : 74
+e-mail : mewyghgp@needle.worm
+division : mxo
+telephone : 010-3773-3377
+sex : male

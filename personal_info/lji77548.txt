@@ -1,0 +1,6 @@
+name : vkirj
+age : 14
+e-mail : emjbwbgr@needle.worm
+division : ptm
+telephone : 010-7743-7777
+sex : others

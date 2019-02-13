@@ -1,0 +1,6 @@
+name : yhkii
+age : 88
+e-mail : hubhgobn@needle.worm
+division : fxq
+telephone : 010-0199-9530
+sex : male

@@ -1,0 +1,6 @@
+name : cswfh
+age : 72
+e-mail : hwbsolsn@needle.worm
+division : dtp
+telephone : 010-2289-9022
+sex : male

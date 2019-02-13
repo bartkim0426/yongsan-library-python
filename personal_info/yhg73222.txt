@@ -1,0 +1,6 @@
+name : avkwn
+age : 21
+e-mail : cfsjdjar@needle.worm
+division : vsv
+telephone : 010-7438-6474
+sex : others

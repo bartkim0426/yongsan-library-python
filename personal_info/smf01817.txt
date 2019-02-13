@@ -1,0 +1,6 @@
+name : hsqnd
+age : 18
+e-mail : tnqhjfpj@needle.worm
+division : lff
+telephone : 010-8373-1837
+sex : male

@@ -1,0 +1,6 @@
+name : lxwij
+age : 12
+e-mail : pslvopfl@needle.worm
+division : kmz
+telephone : 010-8093-0380
+sex : male

@@ -1,0 +1,6 @@
+name : mfxpj
+age : 72
+e-mail : arfbkwto@needle.worm
+division : epu
+telephone : 010-4988-.804
+sex : others

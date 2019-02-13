@@ -1,0 +1,6 @@
+name : vagsl
+age : 92
+e-mail : msluavpk@needle.worm
+division : qvr
+telephone : 010-7087-6970
+sex : male

@@ -1,0 +1,6 @@
+name : lfphj
+age : 85
+e-mail : dsallibg@needle.worm
+division : zng
+telephone : 010-3417-.693
+sex : male

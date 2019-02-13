@@ -1,0 +1,6 @@
+name : axfan
+age : 88
+e-mail : bvfojdot@needle.worm
+division : iaa
+telephone : 010-7706-8877
+sex : others

@@ -1,0 +1,6 @@
+name : rrbti
+age : 83
+e-mail : bvcroxny@needle.worm
+division : kht
+telephone : 010-3129-5983
+sex : male

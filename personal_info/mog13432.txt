@@ -1,0 +1,6 @@
+name : uehaa
+age : 17
+e-mail : iklgchfc@needle.worm
+division : lrq
+telephone : 010-3155-8315
+sex : others

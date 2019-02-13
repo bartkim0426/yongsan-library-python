@@ -1,0 +1,6 @@
+name : ucydr
+age : 52
+e-mail : hswquodw@needle.worm
+division : czb
+telephone : 010-5792-7365
+sex : others

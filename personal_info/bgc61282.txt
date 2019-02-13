@@ -1,0 +1,6 @@
+name : lmcyg
+age : 96
+e-mail : saejlpyu@needle.worm
+division : kur
+telephone : 010-3292-6063
+sex : male

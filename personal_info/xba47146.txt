@@ -1,0 +1,6 @@
+name : ckhbl
+age : 87
+e-mail : hxxmmcfj@needle.worm
+division : whe
+telephone : 010-7311-5473
+sex : male

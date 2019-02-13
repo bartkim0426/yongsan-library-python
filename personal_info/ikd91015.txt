@@ -1,0 +1,6 @@
+name : wwsto
+age : 63
+e-mail : vxoioyln@needle.worm
+division : nco
+telephone : 010-1193-9119
+sex : others

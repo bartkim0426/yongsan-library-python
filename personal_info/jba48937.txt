@@ -1,0 +1,6 @@
+name : nhncz
+age : 22
+e-mail : xglrdpkz@needle.worm
+division : grh
+telephone : 010-4909-4909
+sex : male

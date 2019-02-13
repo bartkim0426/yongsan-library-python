@@ -1,0 +1,6 @@
+name : judln
+age : 93
+e-mail : iafzasmg@needle.worm
+division : dla
+telephone : 010-5128-5751
+sex : others

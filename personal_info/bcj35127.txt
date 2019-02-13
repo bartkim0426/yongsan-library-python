@@ -1,0 +1,6 @@
+name : vyzla
+age : 93
+e-mail : fckcrajw@needle.worm
+division : dez
+telephone : 010-5332-3533
+sex : female

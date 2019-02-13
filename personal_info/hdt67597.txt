@@ -1,0 +1,6 @@
+name : kakev
+age : 76
+e-mail : dgkvlltl@needle.worm
+division : uxc
+telephone : 010-7809-7678
+sex : male

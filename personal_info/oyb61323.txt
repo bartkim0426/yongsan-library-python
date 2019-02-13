@@ -1,0 +1,6 @@
+name : jkgar
+age : 81
+e-mail : zcsiyfdv@needle.worm
+division : cwn
+telephone : 010-6172-8617
+sex : male

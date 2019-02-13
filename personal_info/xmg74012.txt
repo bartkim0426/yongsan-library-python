@@ -1,0 +1,6 @@
+name : cemok
+age : 26
+e-mail : aotbstvy@needle.worm
+division : yzf
+telephone : 010-5418-8375
+sex : male

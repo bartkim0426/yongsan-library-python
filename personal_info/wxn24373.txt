@@ -1,0 +1,6 @@
+name : enbpi
+age : 69
+e-mail : zqbyspbo@needle.worm
+division : pjk
+telephone : 010-4617-8246
+sex : male

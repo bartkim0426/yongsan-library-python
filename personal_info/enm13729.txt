@@ -1,0 +1,6 @@
+name : uyuow
+age : 24
+e-mail : wjautama@needle.worm
+division : rnk
+telephone : 010-5538-9615
+sex : male

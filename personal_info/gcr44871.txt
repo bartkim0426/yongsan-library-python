@@ -1,0 +1,6 @@
+name : cufyo
+age : 73
+e-mail : sqmykuvg@needle.worm
+division : teb
+telephone : 010-4499-6449
+sex : female

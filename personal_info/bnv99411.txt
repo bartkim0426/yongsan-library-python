@@ -1,0 +1,6 @@
+name : rozha
+age : 43
+e-mail : nldkhsug@needle.worm
+division : vpo
+telephone : 010-0175-7401
+sex : female

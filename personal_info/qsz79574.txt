@@ -1,0 +1,6 @@
+name : ujudk
+age : 58
+e-mail : vvsspygo@needle.worm
+division : njs
+telephone : 010-5873-7958
+sex : male

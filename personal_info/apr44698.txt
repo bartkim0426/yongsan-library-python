@@ -1,0 +1,6 @@
+name : jeeuj
+age : 24
+e-mail : mazoowjo@needle.worm
+division : hwe
+telephone : 010-6591-5346
+sex : male

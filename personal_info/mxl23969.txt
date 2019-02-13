@@ -1,0 +1,6 @@
+name : bedxy
+age : 03
+e-mail : rbnzuwau@needle.worm
+division : ahz
+telephone : 010-2637-2263
+sex : female

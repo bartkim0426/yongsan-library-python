@@ -1,0 +1,6 @@
+name : miofe
+age : 21
+e-mail : anwwknoj@needle.worm
+division : zpz
+telephone : 010-3438-6634
+sex : female

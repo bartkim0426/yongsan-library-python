@@ -1,0 +1,6 @@
+name : demtp
+age : 75
+e-mail : hteukdkn@needle.worm
+division : njn
+telephone : 010-7206-7372
+sex : male

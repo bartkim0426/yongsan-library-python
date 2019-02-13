@@ -1,0 +1,6 @@
+name : jqacm
+age : 81
+e-mail : bhqpehyt@needle.worm
+division : miw
+telephone : 010-8273-9482
+sex : male

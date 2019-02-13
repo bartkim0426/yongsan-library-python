@@ -1,0 +1,6 @@
+name : syakc
+age : 31
+e-mail : hsdyiyan@needle.worm
+division : gnr
+telephone : 010-9316-9493
+sex : male

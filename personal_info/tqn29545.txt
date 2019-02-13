@@ -1,0 +1,6 @@
+name : icofr
+age : 07
+e-mail : hwguphcc@needle.worm
+division : kej
+telephone : 010-2974-6297
+sex : others

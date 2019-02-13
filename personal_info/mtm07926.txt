@@ -1,0 +1,6 @@
+name : wtbmu
+age : 86
+e-mail : udncsgly@needle.worm
+division : dtt
+telephone : 010-1192-7081
+sex : others

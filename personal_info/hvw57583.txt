@@ -1,0 +1,6 @@
+name : krgii
+age : 85
+e-mail : xbvsshwd@needle.worm
+division : fea
+telephone : 010-7701-6577
+sex : male

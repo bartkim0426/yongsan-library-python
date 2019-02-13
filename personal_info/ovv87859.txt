@@ -1,0 +1,6 @@
+name : yyjav
+age : 12
+e-mail : svdpdjum@needle.worm
+division : qqp
+telephone : 010-0451-8804
+sex : male

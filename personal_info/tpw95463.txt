@@ -1,0 +1,6 @@
+name : nsbjr
+age : 56
+e-mail : bulbfmlu@needle.worm
+division : gfv
+telephone : 010-5577-9955
+sex : others

@@ -1,0 +1,6 @@
+name : vpikt
+age : 73
+e-mail : xgfyving@needle.worm
+division : mgn
+telephone : 010-8306-8183
+sex : female

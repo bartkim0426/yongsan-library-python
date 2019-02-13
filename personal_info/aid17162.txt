@@ -1,0 +1,6 @@
+name : yycth
+age : 22
+e-mail : mlpavzaa@needle.worm
+division : znb
+telephone : 010-7308-.617
+sex : female

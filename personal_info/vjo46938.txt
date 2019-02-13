@@ -1,0 +1,6 @@
+name : bojvt
+age : 19
+e-mail : kkaphiux@needle.worm
+division : hia
+telephone : 010-4836-9348
+sex : male

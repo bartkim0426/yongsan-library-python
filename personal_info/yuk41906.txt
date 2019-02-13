@@ -1,0 +1,6 @@
+name : lyaqz
+age : 69
+e-mail : talatupi@needle.worm
+division : sun
+telephone : 010-2102-9421
+sex : others

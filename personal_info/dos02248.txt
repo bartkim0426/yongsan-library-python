@@ -1,0 +1,6 @@
+name : wcunh
+age : 84
+e-mail : qjoahwbp@needle.worm
+division : srw
+telephone : 010-4142-0241
+sex : male

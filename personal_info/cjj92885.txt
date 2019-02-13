@@ -1,0 +1,6 @@
+name : vghnr
+age : 35
+e-mail : vbalczxc@needle.worm
+division : zmx
+telephone : 010-3059-9306
+sex : male

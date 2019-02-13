@@ -1,0 +1,6 @@
+name : tfihc
+age : 63
+e-mail : krjpjobw@needle.worm
+division : lck
+telephone : 010-0633-0063
+sex : others

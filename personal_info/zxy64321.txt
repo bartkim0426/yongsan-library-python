@@ -1,0 +1,6 @@
+name : gutjl
+age : 39
+e-mail : nwsxblju@needle.worm
+division : dwf
+telephone : 010-4462-6446
+sex : male

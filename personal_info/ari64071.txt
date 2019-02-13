@@ -1,0 +1,6 @@
+name : ikqoc
+age : 89
+e-mail : zwbxbceq@needle.worm
+division : rrt
+telephone : 010-2061-5642
+sex : male

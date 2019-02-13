@@ -1,0 +1,6 @@
+name : ofltx
+age : 27
+e-mail : cnjkiysd@needle.worm
+division : nng
+telephone : 010-3449-7423
+sex : male

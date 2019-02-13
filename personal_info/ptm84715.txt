@@ -1,0 +1,6 @@
+name : diruw
+age : 76
+e-mail : btaaulfv@needle.worm
+division : ztl
+telephone : 010-4907-.984
+sex : male

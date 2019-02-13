@@ -1,0 +1,6 @@
+name : ukyco
+age : 61
+e-mail : homarxbt@needle.worm
+division : giw
+telephone : 010-5285-5528
+sex : male

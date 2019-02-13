@@ -1,0 +1,6 @@
+name : kzcud
+age : 08
+e-mail : bztbycku@needle.worm
+division : eov
+telephone : 010-2843-9228
+sex : male

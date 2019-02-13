@@ -1,0 +1,6 @@
+name : ozeub
+age : 53
+e-mail : folwpfst@needle.worm
+division : byv
+telephone : 010-8692-1287
+sex : female

@@ -1,0 +1,6 @@
+name : gutri
+age : 65
+e-mail : dkjrcncc@needle.worm
+division : zzs
+telephone : 010-2999-8830
+sex : others

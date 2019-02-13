@@ -1,0 +1,6 @@
+name : htuao
+age : 49
+e-mail : xuvtpwwx@needle.worm
+division : hnm
+telephone : 010-6828-6828
+sex : male

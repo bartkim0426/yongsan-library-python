@@ -1,0 +1,6 @@
+name : dlymd
+age : 75
+e-mail : nbxbalcy@needle.worm
+division : lae
+telephone : 010-2918-7112
+sex : male

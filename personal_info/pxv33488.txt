@@ -1,0 +1,6 @@
+name : ozhdn
+age : 64
+e-mail : sicuggse@needle.worm
+division : cfx
+telephone : 010-3695-5336
+sex : male

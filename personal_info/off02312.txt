@@ -1,0 +1,6 @@
+name : efyrr
+age : 88
+e-mail : phaadyft@needle.worm
+division : tuu
+telephone : 010-2491-0249
+sex : male

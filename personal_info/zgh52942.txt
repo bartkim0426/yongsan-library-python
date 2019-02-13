@@ -1,0 +1,6 @@
+name : deotq
+age : 98
+e-mail : tiijkggg@needle.worm
+division : wwc
+telephone : 010-4139-6454
+sex : male

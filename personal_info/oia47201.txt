@@ -1,0 +1,6 @@
+name : jzdzj
+age : 77
+e-mail : mryzndqj@needle.worm
+division : hjp
+telephone : 010-4908-0849
+sex : male

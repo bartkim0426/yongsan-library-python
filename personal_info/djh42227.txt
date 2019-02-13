@@ -1,0 +1,6 @@
+name : gmoav
+age : 11
+e-mail : tmuchpdv@needle.worm
+division : wji
+telephone : 010-4441-6424
+sex : male

@@ -1,0 +1,6 @@
+name : jlqta
+age : 67
+e-mail : xbodviyl@needle.worm
+division : cdk
+telephone : 010-1084-4108
+sex : others

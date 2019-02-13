@@ -1,0 +1,6 @@
+name : ujkoo
+age : 58
+e-mail : rdknzrju@needle.worm
+division : kkp
+telephone : 010-9375-6093
+sex : female

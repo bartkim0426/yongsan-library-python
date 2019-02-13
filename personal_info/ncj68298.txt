@@ -1,0 +1,6 @@
+name : ergoy
+age : 92
+e-mail : lipurxke@needle.worm
+division : nwl
+telephone : 010-7024-6570
+sex : male

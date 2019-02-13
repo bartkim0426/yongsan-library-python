@@ -1,0 +1,6 @@
+name : bdzrn
+age : 78
+e-mail : ghklewaa@needle.worm
+division : ulb
+telephone : 010-4319-6543
+sex : others

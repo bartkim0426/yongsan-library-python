@@ -1,0 +1,6 @@
+name : ssktb
+age : 85
+e-mail : ixidcfem@needle.worm
+division : cbq
+telephone : 010-4517-7452
+sex : others

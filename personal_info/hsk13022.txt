@@ -1,0 +1,6 @@
+name : smibb
+age : 14
+e-mail : spobewre@needle.worm
+division : hur
+telephone : 010-2448-8132
+sex : others

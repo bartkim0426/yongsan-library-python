@@ -1,0 +1,6 @@
+name : haacd
+age : 78
+e-mail : vppwebkx@needle.worm
+division : dla
+telephone : 010-3102-2731
+sex : male

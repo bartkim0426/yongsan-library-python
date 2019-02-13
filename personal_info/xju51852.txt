@@ -1,0 +1,6 @@
+name : jmidx
+age : 23
+e-mail : yhwlgstz@needle.worm
+division : qea
+telephone : 010-0551-5520
+sex : male

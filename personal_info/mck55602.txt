@@ -1,0 +1,6 @@
+name : dbkab
+age : 68
+e-mail : ptnxvmdc@needle.worm
+division : rrh
+telephone : 010-5799-5580
+sex : others

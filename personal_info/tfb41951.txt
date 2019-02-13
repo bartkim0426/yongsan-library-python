@@ -1,0 +1,6 @@
+name : rycqs
+age : 61
+e-mail : apuzahjp@needle.worm
+division : ila
+telephone : 010-4428-8443
+sex : male

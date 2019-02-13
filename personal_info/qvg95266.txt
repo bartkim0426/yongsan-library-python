@@ -1,0 +1,6 @@
+name : cddoc
+age : 68
+e-mail : auvjoikh@needle.worm
+division : sip
+telephone : 010-5384-9538
+sex : others

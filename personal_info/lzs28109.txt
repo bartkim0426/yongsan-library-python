@@ -1,0 +1,6 @@
+name : cafwa
+age : 74
+e-mail : lfpaedhr@needle.worm
+division : itz
+telephone : 010-0069-.083
+sex : female

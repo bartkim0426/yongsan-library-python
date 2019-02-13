@@ -1,0 +1,6 @@
+name : kcuyu
+age : 38
+e-mail : jjtscyco@needle.worm
+division : pns
+telephone : 010-1198-8712
+sex : male

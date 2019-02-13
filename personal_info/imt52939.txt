@@ -1,0 +1,6 @@
+name : qoldo
+age : 05
+e-mail : bjvtnqpv@needle.worm
+division : bqp
+telephone : 010-1378-7531
+sex : male

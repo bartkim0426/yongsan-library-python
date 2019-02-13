@@ -1,0 +1,6 @@
+name : gzeua
+age : 81
+e-mail : qxtaguuf@needle.worm
+division : onz
+telephone : 010-1639-9071
+sex : male

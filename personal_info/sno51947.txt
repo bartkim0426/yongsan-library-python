@@ -1,0 +1,6 @@
+name : qtssi
+age : 54
+e-mail : hobffprj@needle.worm
+division : giw
+telephone : 010-0698-6520
+sex : male

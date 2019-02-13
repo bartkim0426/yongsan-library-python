@@ -1,0 +1,6 @@
+name : xwotw
+age : 17
+e-mail : osbrjvks@needle.worm
+division : ity
+telephone : 010-1933-0019
+sex : female

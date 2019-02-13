@@ -1,0 +1,6 @@
+name : iwhzk
+age : 84
+e-mail : kfhoboel@needle.worm
+division : rnr
+telephone : 010-7189-5757
+sex : male

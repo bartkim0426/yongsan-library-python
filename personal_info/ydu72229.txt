@@ -1,0 +1,6 @@
+name : ofpco
+age : 21
+e-mail : jmjhqjkh@needle.worm
+division : zmo
+telephone : 010-4222-7742
+sex : female

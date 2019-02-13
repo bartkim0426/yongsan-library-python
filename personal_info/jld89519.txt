@@ -1,0 +1,6 @@
+name : azxln
+age : 28
+e-mail : eorvzhoa@needle.worm
+division : opl
+telephone : 010-1638-5591
+sex : male

@@ -1,0 +1,6 @@
+name : dvesq
+age : 53
+e-mail : dnqazirk@needle.worm
+division : eds
+telephone : 010-4174-9941
+sex : male

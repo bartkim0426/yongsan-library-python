@@ -1,0 +1,6 @@
+name : sovgy
+age : 17
+e-mail : dffqkqif@needle.worm
+division : mgt
+telephone : 010-1728-8461
+sex : male

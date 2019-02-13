@@ -1,0 +1,6 @@
+name : yijra
+age : 88
+e-mail : modyvmte@needle.worm
+division : yym
+telephone : 010-8861-8288
+sex : female

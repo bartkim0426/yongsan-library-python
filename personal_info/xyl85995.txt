@@ -1,0 +1,6 @@
+name : pitji
+age : 49
+e-mail : kksyenny@needle.worm
+division : mfu
+telephone : 010-0066-6006
+sex : others

@@ -1,0 +1,6 @@
+name : fnrni
+age : 29
+e-mail : xmouuget@needle.worm
+division : rht
+telephone : 010-9322-1932
+sex : others

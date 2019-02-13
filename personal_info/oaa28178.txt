@@ -1,0 +1,6 @@
+name : nklpy
+age : 23
+e-mail : spriclsb@needle.worm
+division : qsi
+telephone : 010-9401-7929
+sex : male

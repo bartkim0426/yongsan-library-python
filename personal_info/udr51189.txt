@@ -1,0 +1,6 @@
+name : jyjxw
+age : 09
+e-mail : jrtmtzos@needle.worm
+division : yty
+telephone : 010-1326-0513
+sex : male

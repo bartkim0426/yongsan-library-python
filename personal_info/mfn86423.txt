@@ -1,0 +1,6 @@
+name : bsidb
+age : 71
+e-mail : pugptnud@needle.worm
+division : dhq
+telephone : 010-5899-7865
+sex : others

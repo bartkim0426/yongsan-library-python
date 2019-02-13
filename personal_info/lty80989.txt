@@ -1,0 +1,6 @@
+name : yblwe
+age : 55
+e-mail : moykizvq@needle.worm
+division : doj
+telephone : 010-1187-.781
+sex : male

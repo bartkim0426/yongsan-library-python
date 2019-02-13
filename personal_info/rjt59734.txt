@@ -1,0 +1,6 @@
+name : mogks
+age : 44
+e-mail : vvgzkvry@needle.worm
+division : jjb
+telephone : 010-5986-0598
+sex : male

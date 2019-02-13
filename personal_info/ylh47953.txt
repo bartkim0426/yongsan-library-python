@@ -1,0 +1,6 @@
+name : tonur
+age : 07
+e-mail : xvstndzn@needle.worm
+division : kel
+telephone : 010-8128-5481
+sex : female

@@ -1,0 +1,6 @@
+name : bbgyi
+age : 66
+e-mail : fdzjsjeo@needle.worm
+division : zhv
+telephone : 010-9386-0938
+sex : male

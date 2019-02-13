@@ -1,0 +1,6 @@
+name : sygwd
+age : 55
+e-mail : kjimtzip@needle.worm
+division : jtl
+telephone : 010-5516-0555
+sex : female

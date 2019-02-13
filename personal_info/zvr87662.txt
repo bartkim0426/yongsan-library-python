@@ -1,0 +1,6 @@
+name : blwny
+age : 12
+e-mail : eaaqjxje@needle.worm
+division : vbi
+telephone : 010-7832-9878
+sex : female

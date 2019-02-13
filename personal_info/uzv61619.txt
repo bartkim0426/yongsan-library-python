@@ -1,0 +1,6 @@
+name : dylwo
+age : 76
+e-mail : iivkogyu@needle.worm
+division : eql
+telephone : 010-1795-6179
+sex : female

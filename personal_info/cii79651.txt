@@ -1,0 +1,6 @@
+name : dqjfe
+age : 14
+e-mail : mjknagis@needle.worm
+division : ard
+telephone : 010-8469-.079
+sex : male

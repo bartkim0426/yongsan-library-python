@@ -1,0 +1,6 @@
+name : lihxo
+age : 69
+e-mail : qytmacpa@needle.worm
+division : awc
+telephone : 010-6029-3160
+sex : male

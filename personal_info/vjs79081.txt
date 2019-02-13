@@ -1,0 +1,6 @@
+name : kjako
+age : 88
+e-mail : cpinywae@needle.worm
+division : lyo
+telephone : 010-3228-5793
+sex : others

@@ -1,0 +1,6 @@
+name : fjnmo
+age : 79
+e-mail : pvkiiinu@needle.worm
+division : icx
+telephone : 010-8513-0785
+sex : male

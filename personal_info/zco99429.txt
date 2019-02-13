@@ -1,0 +1,6 @@
+name : ffdyn
+age : 77
+e-mail : fzbmzqak@needle.worm
+division : doh
+telephone : 010-9001-9001
+sex : others

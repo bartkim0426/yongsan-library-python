@@ -1,0 +1,6 @@
+name : sydsk
+age : 31
+e-mail : iclfnadh@needle.worm
+division : rad
+telephone : 010-5426-8542
+sex : male

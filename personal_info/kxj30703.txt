@@ -1,0 +1,6 @@
+name : vyfiv
+age : 14
+e-mail : cprnddyx@needle.worm
+division : mxn
+telephone : 010-0947-0309
+sex : male

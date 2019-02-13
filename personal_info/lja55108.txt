@@ -1,0 +1,6 @@
+name : ohisq
+age : 79
+e-mail : vozzpght@needle.worm
+division : nrs
+telephone : 010-5635-0563
+sex : female

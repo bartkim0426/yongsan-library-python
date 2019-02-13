@@ -1,0 +1,6 @@
+name : ugulo
+age : 06
+e-mail : jjixeqis@needle.worm
+division : obh
+telephone : 010-5238-0652
+sex : female

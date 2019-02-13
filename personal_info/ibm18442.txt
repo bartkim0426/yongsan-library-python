@@ -1,0 +1,6 @@
+name : uxcfw
+age : 12
+e-mail : dfmtsmvq@needle.worm
+division : xqa
+telephone : 010-6418-9186
+sex : male

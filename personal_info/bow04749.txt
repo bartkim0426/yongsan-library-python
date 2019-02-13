@@ -1,0 +1,6 @@
+name : ifolk
+age : 41
+e-mail : hfpslwre@needle.worm
+division : ral
+telephone : 010-0672-8206
+sex : others

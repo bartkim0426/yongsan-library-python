@@ -1,0 +1,6 @@
+name : cjdaz
+age : 08
+e-mail : cvuayajg@needle.worm
+division : tsy
+telephone : 010-2639-5526
+sex : male

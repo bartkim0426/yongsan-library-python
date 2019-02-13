@@ -1,0 +1,6 @@
+name : ebuxa
+age : 79
+e-mail : dijnrsjj@needle.worm
+division : fiu
+telephone : 010-7509-3751
+sex : others

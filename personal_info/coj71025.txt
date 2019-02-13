@@ -1,0 +1,6 @@
+name : yxjac
+age : 82
+e-mail : xinahpbm@needle.worm
+division : rrf
+telephone : 010-1213-7712
+sex : others

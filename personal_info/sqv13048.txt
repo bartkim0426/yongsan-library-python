@@ -1,0 +1,6 @@
+name : kgdba
+age : 73
+e-mail : vlpntfpe@needle.worm
+division : tng
+telephone : 010-1319-1319
+sex : male

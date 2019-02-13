@@ -1,0 +1,6 @@
+name : bhkkh
+age : 09
+e-mail : zhvmwcet@needle.worm
+division : cua
+telephone : 010-5541-8554
+sex : male

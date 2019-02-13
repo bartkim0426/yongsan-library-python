@@ -1,0 +1,6 @@
+name : ogbad
+age : 02
+e-mail : ecvfbxdi@needle.worm
+division : oqw
+telephone : 010-9734-6197
+sex : male

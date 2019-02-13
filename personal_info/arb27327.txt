@@ -1,0 +1,6 @@
+name : gdwxi
+age : 01
+e-mail : dcwuyypp@needle.worm
+division : jdi
+telephone : 010-7534-2753
+sex : female

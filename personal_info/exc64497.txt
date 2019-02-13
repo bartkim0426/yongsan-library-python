@@ -1,0 +1,6 @@
+name : salgf
+age : 66
+e-mail : sjavkvtj@needle.worm
+division : iig
+telephone : 010-6899-5646
+sex : others

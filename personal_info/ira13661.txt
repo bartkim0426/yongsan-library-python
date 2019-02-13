@@ -1,0 +1,6 @@
+name : dlnzx
+age : 92
+e-mail : yhknsouw@needle.worm
+division : wno
+telephone : 010-5092-6151
+sex : others

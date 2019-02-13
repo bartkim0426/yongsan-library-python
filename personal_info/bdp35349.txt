@@ -1,0 +1,6 @@
+name : glukz
+age : 03
+e-mail : jwvaanyf@needle.worm
+division : odl
+telephone : 010-3737-6737
+sex : male

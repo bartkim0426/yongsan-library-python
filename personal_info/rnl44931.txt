@@ -1,0 +1,6 @@
+name : bzdsp
+age : 57
+e-mail : rhvawprj@needle.worm
+division : nmu
+telephone : 010-0738-9450
+sex : male

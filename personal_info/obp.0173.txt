@@ -1,0 +1,6 @@
+name : dkmcn
+age : 72
+e-mail : tusqatgt@needle.worm
+division : pxb
+telephone : 010-7503-0175
+sex : male

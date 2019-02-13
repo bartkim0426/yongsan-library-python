@@ -1,0 +1,6 @@
+name : skney
+age : 85
+e-mail : fbvnjxfh@needle.worm
+division : jii
+telephone : 010-5018-8505
+sex : female

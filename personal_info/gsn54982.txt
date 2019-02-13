@@ -1,0 +1,6 @@
+name : egrnz
+age : 98
+e-mail : zietikex@needle.worm
+division : cmw
+telephone : 010-5732-7657
+sex : male

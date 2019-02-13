@@ -1,0 +1,6 @@
+name : lmnjt
+age : 22
+e-mail : ttjzumrs@needle.worm
+division : veq
+telephone : 010-2314-7323
+sex : female

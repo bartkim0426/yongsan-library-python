@@ -1,0 +1,6 @@
+name : yrmnn
+age : 15
+e-mail : jisetjiz@needle.worm
+division : ldn
+telephone : 010-4448-5544
+sex : others

@@ -1,0 +1,6 @@
+name : juqif
+age : 32
+e-mail : vhmauqfb@needle.worm
+division : gev
+telephone : 010-7463-3746
+sex : male

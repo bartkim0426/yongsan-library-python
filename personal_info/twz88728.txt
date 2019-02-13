@@ -1,0 +1,6 @@
+name : lnnfd
+age : 68
+e-mail : ltwrswny@needle.worm
+division : ssm
+telephone : 010-9004-0900
+sex : others

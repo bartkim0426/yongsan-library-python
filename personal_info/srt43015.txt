@@ -1,0 +1,6 @@
+name : hsupr
+age : 18
+e-mail : nghczmwa@needle.worm
+division : ubv
+telephone : 010-1502-5431
+sex : female

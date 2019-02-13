@@ -1,0 +1,6 @@
+name : krnna
+age : 32
+e-mail : jwuqnulj@needle.worm
+division : jnr
+telephone : 010-8463-3846
+sex : male

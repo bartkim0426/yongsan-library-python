@@ -1,0 +1,6 @@
+name : aqftt
+age : 34
+e-mail : brtovcaq@needle.worm
+division : oqt
+telephone : 010-9639-9359
+sex : male

@@ -1,0 +1,6 @@
+name : oqjii
+age : 61
+e-mail : xparosdh@needle.worm
+division : mom
+telephone : 010-5683-8856
+sex : male

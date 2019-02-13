@@ -1,0 +1,6 @@
+name : gkpmo
+age : 72
+e-mail : yduiarsb@needle.worm
+division : fsi
+telephone : 010-4703-6647
+sex : male

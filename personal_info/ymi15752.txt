@@ -1,0 +1,6 @@
+name : xoqtz
+age : 58
+e-mail : rtzstovi@needle.worm
+division : jaj
+telephone : 010-5875-1587
+sex : male

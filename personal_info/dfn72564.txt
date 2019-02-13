@@ -1,0 +1,6 @@
+name : soaws
+age : 26
+e-mail : grxcihlj@needle.worm
+division : lcl
+telephone : 010-2757-.572
+sex : others

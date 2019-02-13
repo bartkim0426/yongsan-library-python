@@ -1,0 +1,6 @@
+name : fjagz
+age : 34
+e-mail : furlnvws@needle.worm
+division : brd
+telephone : 010-4751-9475
+sex : male

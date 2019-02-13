@@ -1,0 +1,6 @@
+name : llyvb
+age : 12
+e-mail : wwciyeoz@needle.worm
+division : bki
+telephone : 010-8317-8483
+sex : female

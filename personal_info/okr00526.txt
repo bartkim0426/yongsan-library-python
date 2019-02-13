@@ -1,0 +1,6 @@
+name : jblas
+age : 62
+e-mail : hqzeyeew@needle.worm
+division : krc
+telephone : 010-6972-0069
+sex : male

@@ -1,0 +1,6 @@
+name : tdtxn
+age : 04
+e-mail : bsekwbtq@needle.worm
+division : udv
+telephone : 010-5067-9350
+sex : male

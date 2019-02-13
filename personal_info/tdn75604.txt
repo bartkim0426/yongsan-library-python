@@ -1,0 +1,6 @@
+name : llpyt
+age : 71
+e-mail : ushytpys@needle.worm
+division : ntl
+telephone : 010-7981-7580
+sex : others

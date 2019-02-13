@@ -1,0 +1,6 @@
+name : dozac
+age : 96
+e-mail : cnauzxnx@needle.worm
+division : jrs
+telephone : 010-5281-5295
+sex : male

@@ -1,0 +1,6 @@
+name : azled
+age : 15
+e-mail : qnbhuojz@needle.worm
+division : rau
+telephone : 010-8446-.658
+sex : male

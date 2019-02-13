@@ -1,0 +1,6 @@
+name : ooqzo
+age : 86
+e-mail : fjgamhnt@needle.worm
+division : suc
+telephone : 010-3816-6038
+sex : male

@@ -1,0 +1,6 @@
+name : ndeeo
+age : 62
+e-mail : csrrkeal@needle.worm
+division : ozw
+telephone : 010-0682-8606
+sex : others

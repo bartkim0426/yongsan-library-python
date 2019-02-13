@@ -1,0 +1,6 @@
+name : badis
+age : 02
+e-mail : htwnrpbu@needle.worm
+division : hgp
+telephone : 010-7334-6073
+sex : others

@@ -1,0 +1,6 @@
+name : vuhmw
+age : 82
+e-mail : fqzpalyp@needle.worm
+division : zri
+telephone : 010-6649-7946
+sex : male

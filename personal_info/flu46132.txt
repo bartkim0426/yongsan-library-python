@@ -1,0 +1,6 @@
+name : mubpo
+age : 38
+e-mail : ijalllhu@needle.worm
+division : rqy
+telephone : 010-4771-4477
+sex : male

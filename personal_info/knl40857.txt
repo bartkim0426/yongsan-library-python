@@ -1,0 +1,6 @@
+name : jkfgi
+age : 99
+e-mail : mzmukbkh@needle.worm
+division : xjh
+telephone : 010-1007-8410
+sex : male

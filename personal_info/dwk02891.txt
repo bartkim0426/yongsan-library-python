@@ -1,0 +1,6 @@
+name : tqblz
+age : 48
+e-mail : nnkeadvt@needle.worm
+division : mfd
+telephone : 010-8048-0804
+sex : female

@@ -1,0 +1,6 @@
+name : ztokk
+age : 08
+e-mail : usvdillo@needle.worm
+division : xzy
+telephone : 010-2627-0262
+sex : female

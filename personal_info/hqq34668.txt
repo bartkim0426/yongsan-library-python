@@ -1,0 +1,6 @@
+name : wwgll
+age : 22
+e-mail : usaogsfj@needle.worm
+division : qtg
+telephone : 010-5989-5536
+sex : male

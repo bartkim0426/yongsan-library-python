@@ -1,0 +1,6 @@
+name : jwajz
+age : 27
+e-mail : yceemijc@needle.worm
+division : tkl
+telephone : 010-9856-5698
+sex : male

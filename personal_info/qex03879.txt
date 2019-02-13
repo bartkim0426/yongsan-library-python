@@ -1,0 +1,6 @@
+name : oquus
+age : 96
+e-mail : oxuwxebq@needle.worm
+division : njg
+telephone : 010-0828-3083
+sex : male

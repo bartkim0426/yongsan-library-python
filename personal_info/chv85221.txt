@@ -1,0 +1,6 @@
+name : immys
+age : 34
+e-mail : nurgllco@needle.worm
+division : xgp
+telephone : 010-5351-5853
+sex : male

@@ -1,0 +1,6 @@
+name : fyytb
+age : 42
+e-mail : klpenkzq@needle.worm
+division : svs
+telephone : 010-4422-6144
+sex : others

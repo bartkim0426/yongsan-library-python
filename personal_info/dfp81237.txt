@@ -1,0 +1,6 @@
+name : udrso
+age : 32
+e-mail : tevkpnay@needle.worm
+division : boo
+telephone : 010-1443-8144
+sex : others

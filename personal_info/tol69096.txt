@@ -1,0 +1,6 @@
+name : pyipc
+age : 21
+e-mail : guuosart@needle.worm
+division : nzr
+telephone : 010-9296-6929
+sex : male

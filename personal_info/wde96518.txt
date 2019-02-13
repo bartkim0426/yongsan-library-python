@@ -1,0 +1,6 @@
+name : lwayq
+age : 62
+e-mail : czbfrwnd@needle.worm
+division : ewm
+telephone : 010-6637-8966
+sex : male

@@ -1,0 +1,6 @@
+name : ijjny
+age : 99
+e-mail : zxbkljji@needle.worm
+division : ohd
+telephone : 010-7813-9778
+sex : male

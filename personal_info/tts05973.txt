@@ -1,0 +1,6 @@
+name : rhbim
+age : 09
+e-mail : ldiukuuh@needle.worm
+division : kcc
+telephone : 010-6128-.806
+sex : male

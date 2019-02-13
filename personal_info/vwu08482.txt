@@ -1,0 +1,6 @@
+name : fvawo
+age : 19
+e-mail : xitcbokr@needle.worm
+division : nhb
+telephone : 010-0518-8210
+sex : others

@@ -1,0 +1,6 @@
+name : jedai
+age : 78
+e-mail : isakaiea@needle.worm
+division : dpt
+telephone : 010-7962-0179
+sex : others

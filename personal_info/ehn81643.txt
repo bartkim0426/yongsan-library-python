@@ -1,0 +1,6 @@
+name : miyfb
+age : 98
+e-mail : tqdladcf@needle.worm
+division : znm
+telephone : 010-1842-7818
+sex : male

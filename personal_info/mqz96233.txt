@@ -1,0 +1,6 @@
+name : glksq
+age : 47
+e-mail : mxmlhcgs@needle.worm
+division : uht
+telephone : 010-6364-7963
+sex : male

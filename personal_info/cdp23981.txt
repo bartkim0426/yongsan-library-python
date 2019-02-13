@@ -1,0 +1,6 @@
+name : pwyre
+age : 46
+e-mail : boxmalym@needle.worm
+division : ggv
+telephone : 010-4177-9241
+sex : female

@@ -1,0 +1,6 @@
+name : tjjsz
+age : 21
+e-mail : bdygnbzk@needle.worm
+division : lsq
+telephone : 010-8753-7875
+sex : male

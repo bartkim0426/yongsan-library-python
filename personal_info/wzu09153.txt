@@ -1,0 +1,6 @@
+name : ajnim
+age : 55
+e-mail : xnhmecpk@needle.worm
+division : yym
+telephone : 010-2721-7092
+sex : others

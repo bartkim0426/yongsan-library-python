@@ -1,0 +1,6 @@
+name : dgqxo
+age : 19
+e-mail : oolrsmod@needle.worm
+division : eat
+telephone : 010-5351-5153
+sex : male

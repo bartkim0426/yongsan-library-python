@@ -1,0 +1,6 @@
+name : cdsuc
+age : 12
+e-mail : qqjrepve@needle.worm
+division : ahj
+telephone : 010-7228-0722
+sex : others

@@ -1,0 +1,6 @@
+name : uswti
+age : 62
+e-mail : fuzrsixe@needle.worm
+division : znx
+telephone : 010-1193-9711
+sex : others

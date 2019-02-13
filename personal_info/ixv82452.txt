@@ -1,0 +1,6 @@
+name : yboig
+age : 09
+e-mail : lgrtauae@needle.worm
+division : qfm
+telephone : 010-6519-5826
+sex : others

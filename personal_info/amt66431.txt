@@ -1,0 +1,6 @@
+name : lmbku
+age : 12
+e-mail : vuqepjqr@needle.worm
+division : ksr
+telephone : 010-6547-0665
+sex : male

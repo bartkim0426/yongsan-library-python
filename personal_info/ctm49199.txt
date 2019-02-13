@@ -1,0 +1,6 @@
+name : vkkky
+age : 12
+e-mail : fxnegagf@needle.worm
+division : rlj
+telephone : 010-3282-.649
+sex : female

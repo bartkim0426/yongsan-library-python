@@ -1,0 +1,6 @@
+name : mcdgt
+age : 41
+e-mail : uvqvthko@needle.worm
+division : mnq
+telephone : 010-4589-5945
+sex : male

@@ -1,0 +1,6 @@
+name : adfyt
+age : 81
+e-mail : kkaigqtf@needle.worm
+division : iiq
+telephone : 010-5865-8058
+sex : male

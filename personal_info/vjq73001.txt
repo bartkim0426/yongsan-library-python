@@ -1,0 +1,6 @@
+name : minzr
+age : 38
+e-mail : ymmghlur@needle.worm
+division : otb
+telephone : 010-2148-3021
+sex : male

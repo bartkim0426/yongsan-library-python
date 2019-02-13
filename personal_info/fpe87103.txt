@@ -1,0 +1,6 @@
+name : kludv
+age : 99
+e-mail : bjqnfcmg@needle.worm
+division : jrh
+telephone : 010-7238-6872
+sex : male

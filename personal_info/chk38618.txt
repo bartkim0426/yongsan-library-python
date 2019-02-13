@@ -1,0 +1,6 @@
+name : djmxx
+age : 82
+e-mail : wzgqnhoj@needle.worm
+division : zbu
+telephone : 010-9991-06.8
+sex : male

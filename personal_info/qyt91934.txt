@@ -1,0 +1,6 @@
+name : ueqxr
+age : 98
+e-mail : wiskando@needle.worm
+division : aej
+telephone : 010-9213-9213
+sex : male

@@ -1,0 +1,6 @@
+name : haarl
+age : 11
+e-mail : nytbwojw@needle.worm
+division : brz
+telephone : 010-5541-0755
+sex : male

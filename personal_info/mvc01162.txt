@@ -1,0 +1,6 @@
+name : iniae
+age : 42
+e-mail : nfncljjt@needle.worm
+division : fbs
+telephone : 010-0251-6502
+sex : female

@@ -1,0 +1,6 @@
+name : jhwud
+age : 87
+e-mail : kvquutnu@needle.worm
+division : hcu
+telephone : 010-9032-4190
+sex : male

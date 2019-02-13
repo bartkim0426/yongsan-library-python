@@ -1,0 +1,6 @@
+name : csnum
+age : 37
+e-mail : txmypcon@needle.worm
+division : vzo
+telephone : 010-6853-8368
+sex : male

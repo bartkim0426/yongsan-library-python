@@ -1,0 +1,6 @@
+name : szsyj
+age : 11
+e-mail : ontrnecw@needle.worm
+division : int
+telephone : 010-7428-8974
+sex : male
